@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,81 [48th],Max Jumps,2,Jab 1,2-3,18,2,70,W: 10,100,Nair,3-6,50,8/8/7,361,20.0,100.0,10,"1-2, 31>",Needle Storm,"Generates Needles on: 1, 26, 44, 62, 80, 98",-,-,-,-,-
+Run Speed,2.016 [8th],Wall Jump,Yes,Jab 2,2-4,18,3,70,20,40,Nair (Late),7-30,-,5/5/4,361,20.0,100.0,-,-,"Needle Storm (6 Needles, Thrown On)","11, 14, 17, 20, 23, 26",54,-,-,-,-
+Walk Speed,1.4 [5-6th],Wall Cling,Yes,Rapid Jab,"9, 13, 17, 21, 25...",-,?,?,?,?,Fair,5-7,35,4.3/5,50,40.0,132.0,10,"1-4, 11>","Needle Storm (1-5 Needles, Thrown On)","5, 7, 9, 11, 13",48,-,-,-,-
+Air Speed,1.1 [14-19th],Crawl,Yes,Rapid Jab Finisher,5-6,53,3,40,60,115,Bair,4-6,38,7/7/8,361,30.0,100.0,12,"1-3, 31>",Needle Storm (Hitboxes),1-3,-,1.9,60,0,180
+Fall Speed,1.75 [10-11th],Tether,No,Dash Attack,5-6,41,6.5 (+1),60,70,90,Bair (Late),7-14,-,5,361,10.0,101.0,-,-,"Needle Storm (Hitboxes, Late)",4-10,-,1.2,60,0,180
+Fast Fall Speed,2.8 [11-12th],Jumpsquat,4 frames,Dash Attack (Late),7-8,-,4.5 (+1),361,20,100,Uair,4-15 (Rehit rate: 4),44,1,90/366,30.0,100.0,21,"1-3, 47>",Burst Grenade (Thrown),15-,81,-,-,-,-
+Air Acceleration,0.08,Soft Landing Lag,2 frames,Ftilt,5-8,25,4,84/86/78,20,158/158/165,Uair (Final Hit),23-24,-,4,80,50.0,138.0,-,-,Burst Grenade (Detonation),28-48,40,?,?,?,?
+Gravity,0.15,Hard Landing Lag,4 frames,Utilt (Hit 1),5-8,36,5,0/330/75,W:30/28/40,80,Dair,15-18,55,8,280,30.0,90.0,30,"1-2, 53>",Burst Grenade (Explosion),49-,-,12,?,?,?
+SH Air Time,32 frames,FH Air Time,50 frames,Utilt (Hit 2),19-23,-,6,60,20,125,Dair (Late),19-33,-,8,70,30.0,105.0,-,-,Vanish,36-38 (Intangible: 19-53),-,12,55,50,102
+,,,,Dtilt,5-6,30,5,70/70/90,35,80,Dair (Landing),1-2,-,2,40,40.0,150.0,-,-,Vanish (Reappear),55-57,-,5/0,45/361,W: 80/50,100
+,,,,Fsmash (Hit 1),12,51,5,26/45/80,W: 62/47/45,100,,,,,,,,,,Bouncing Fish (Earliest),17-24 (Intangible: 3-4),-,12,361,26,90
+,,,,Fsmash (Hit 2),26-27,-,8,361,60,109,,,,,,,,,,Bouncing Fish (Latest),26-33 (Intangible: 3-4),-,12,361,26,90
+,,,,Usmash (Hit 1),11 (Head and Arms Intangible: 8-15),53,15,93,50,86,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 2),14-15,-,11,50,38,100,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 1),11-12,55,3,140,W: 35,100,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),18-19,-,6,48,35,165,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,28,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,35,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,33,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"5, 2",72,80,79,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"5, 2",120,90,50,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"3, 2",85,80,60,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"3, 3",77,80,90,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-15,25,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-25,31,,,,,,,,,,,,,,,,,,,,

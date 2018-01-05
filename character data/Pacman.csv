@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,95 [30-32nd],Max Jumps,2,Jab 1,4-6,20,3,80/361,W: 22/16,100.0,Nair (Early),3-5,52,10.0,361.0,20,100.0,12,"1-2, 48>",Bonus Fruit (Throw),12-,45,-,-,-,-
+Run Speed,1.52 [35-36th],Wall Jump,Yes,Jab 2,4-6,22,2,80/361,W: 26/15,100.0,Nair,6-9,-,6.0,361.0,13,90.0,-,-,Bonus Fruit (CHERRY),Fruit Generated: Frame 8,-,4,55,40,80
+Walk Speed,1.045 [39th],Wall Cling,No,Jab 3,4-7,34,4,361,45,106.0,Nair (Late),10-19,-,3.0,361.0,13,90.0,-,-,Bonus Fruit (STRAWBERRY),Fruit Generated: Frame 19,-,6,55,40,80
+Air Speed,1.04 [26-27th],Crawl,Yes,Dash Attack (Windbox),3-9,42,0,361,W: 12,100.0,Fair,5-8,26,5.3,361.0,7,90.0,16,"1, 43>",Bonus Fruit (ORANGE),Fruit Generated: Frame 30,-,8,30,50,76
+Fall Speed,1.35 [44-46th],Tether,No,Dash Attack (Hits 1-2),"10-11, 20-21",-,2,12,45,15.0,Bair,9-11,41,11.8,361.0,10,100.0,22,"1-8, 36>",Bonus Fruit (APPLE),Fruit Generated: Frame 54,-,9,75,60,100
+Fast Fall Speed,2.16 [44-46th],Jumpsquat,5 frames,Dash Attack (Hit 3),30,-,5,60,100,60.0,Bair (Late),12-16,-,7.0,361.0,7,90.0,-,-,Bonus Fruit (MELON),Fruit Generated: Frame 78,-,12,55,40,100
+Air Acceleration,0.07,Soft Landing Lag,2 frames,Ftilt (All Angles),5-7,31,8,361,20,100.0,Uair,9-16,37,10.0,70.0,13,100.0,16,"1, 32>",Bonus Fruit (GALAGA),Fruit Generated: Frame 102,-,9,70,40,80
+Gravity,0.072,Hard Landing Lag,4 frames,Utilt,7-10 (Head Intangible: 6-10),34,7,96,50,100.0,Dair (Hits 1-3),"6-7, 14-15, 22-23",60,1.5,100.0,W: 10,100.0,20,"1, 56>",Bonus Fruit (BELL),Fruit Generated: Frame 126,-,8,55,30,120
+SH Air Time,42 frames,FH Air Time,65 frames,Dtilt,7-9,29,6,45,50,80.0,Dair (Hit 4),30-31,-,6.0,65.0,80,90.0,-,-,Bonus Fruit (KEY),Fruit Generated: Frame 150,-,15,55,40,90
+,,,,Fsmash,18-20,53,16/15,361,25,99.0,,,,,,,,,,Power Pellet,23-,94,10,45,30,90
+,,,,Fsmash (Late),21-28,-,9,361,25,102.0,,,,,,,,,,Power Pellet (Dash),?? (Super Armor: ??),-,1,50/361,50/40,108/66
+,,,,Usmash (Hit 1),13,50,3,115,95,20.0,,,,,,,,,,Pac-Jump,Trampoline From: 1-295 (Unblockable),-,-,-,-,-
+,,,,Usmash (Hit 2),16-18,-,14,83,32,97.0,,,,,,,,,,"Pac-Jump (Attack, Early)",4-7,-,7,92,40,90
+,,,,"Usmash (Hit 2, Late)",19-26,-,8,83,32,92.0,,,,,,,,,,Pac-Jump (Attack),8-12,-,6,86,40,90
+,,,,Dsmash,18-20,55,13,29,30,86.0,,,,,,,,,,"Pac-Jump (Attack, Late)",13-17,-,5,50,40,90
+,,,,Dsmash (Late),21-28,-,7,45,40,92.0,,,,,,,,,,Fire Hydrant,Hydrant Appears: 12,40,-,-,-,-
+,,,,Useless Tractor Beams,Hitbox Active,FAF,,,,,,,,,,,,,,Fire Hydrant (Air),Hydrant Appears: 9,35,-,-,-,-
+,,,,Standing Grab,"12-14, 22-24, 32-39",76,,,,,,,,,,,,,,Fire Hydrant (Drop Hitbox),12-,-,9,60,60,80
+,,,,Dash Grab,"12-14, 22-24, 32-39",76,,,,,,,,,,,,,,Fire Hydrant (Damaged Hitbox),1-,-,13,45,30,90
+,,,,Pivot Grab,"12-14, 22-24, 32-39",76,,,,,,,,,,,,,,Fire Hydrant (Horizontal Water),1- (Unblockable),-,0,361,W: 45,135
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,Fire Hydrant (Vertical Water),1- (Unblockable),-,0,90,W: 45,135
+,,,,Fthrow,Yes,6,58,48,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,11,45,70,61,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,5,89,60,100,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"1.5%×3, 6",45,60,55,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

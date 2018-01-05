@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,119 [3rd],Max Jumps,5,Jab 1,10-11,38,4,70/105/361,50/48/W: 25,10/10/100,Nair,7-8,40,12,60,40,95,15,"1-2, 35>",Inhale,17-,78,-,-,-,-
+Run Speed,1.36 [51st],Wall Jump,No,Jab 2,11-12,28,4,115/105/100,50/50/30,10/10/45,Nair (Late),9-29,-,7,80,40,95,-,-,Inhale (Spit),6-,30,10,361,0,0
+Walk Speed,0.98 [41st],Wall Cling,No,Rapid Jab,-,-,1,20/20/68,W: 60/20/2,100,Fair,13-15,42,12,361,15,90,30,"1-4, 40>",Gordo Throw (Hammer),29,64,10,?,?,?
+Air Speed,0.63 [58th],Crawl,No,Rapid Jab Finisher,6,47,3,70,80,150,Bair,17-19,38,16,361,30,88,21,"1-4, 33>","Gordo Throw (Gordo, Early)",29-58 (Gordo Generated: Frame 6),-,14,60,70,66
+Fall Speed,1.95 [2nd],Tether,No,Dash Attack,26-27,67,16 (+3),361,40,100,Uair (Hits 1-6),"10, 12, 14, 16, 18, 20, 22",45,1,366/366/90/90,W: 20/20/40/40,100,22,"1-4, 42>",Gordo Throw (Gordo),88-116,-,12.5,60,70,66
+Fast Fall Speed,3.12 [2nd],Jumpsquat,6 frames,Dash Attack (Late),28-35,-,13 (+3),361,35,100,Uair (Hit 7),24-25,-,5,70/80/70/70,50,150,-,-,"Gordo Throw (Gordo, Late)",117-145,-,11,60,70,66
+Air Acceleration,0.04,Soft Landing Lag,2 frames,Ftilt,12-21 (Rehit rate: 4/4/3/3),49,2,25/25/96/250,90/80/24/24,100,Dair,22-23,48,15/15/8,270/361/361,20,90/100/100,30,"1-6, 44>","Gordo Throw (Gordo, Latest)",146-,-,9.5,60,70,66
+Gravity,0.08788,Hard Landing Lag,6 frames,Ftilt (Final Hit),23,-,3,50,30,190,,,,,,,,,,Gordo Throw (Wall),-,-,10,75,50,50
+SH Air Time,38 frames,FH Air Time,55 frames,Utilt,9-15 (Head and Left Arm Intangibility: 9-15),44,12/10,96,50,80,,,,,,,,,,Super Dedede Jump (Super Armor),"Super Armor: 26-32, 73-80",-,-,-,-,-
+,,,,Dtilt,6-8,38,10,45,60,75,,,,,,,,,,Super Dedede Jump (Intangibility),"Feet: 73-, Body: 22-25",-,-,-,-,-
+,,,,Dtilt (Late),9-13,-,6,45,60,75,,,,,,,,,,Super Dedede Jump,73-,-,15 (+3),60/270,60,90/80
+,,,,Fsmash,42-44,82,15,361,30,93,,,,,,,,,,Super Dedede Jump (Landing),3-4,61,11,90/70,80,100/80
+,,,,Fsmash (Late),45-47,-,24 (+4),361,30,93,,,,,,,,,,Super Dedede Jump (Stars),5-20,-,5,70,8,65
+,,,,Fsmash (Shockwave),48-49 (Grounded Only),-,6,60,100,30,,,,,,,,,,"Jet Hammer (Ground, Uncharged)",27-28,77,11,361,30,100
+,,,,Usmash,17-24,68,14/14/14/9,80,40,95/96/96/96,,,,,,,,,,"Jet Hammer (Ground, Fully Charged)",9-11 (Self Damage on: Frame 167),70,38/28,361,5,66
+,,,,Dsmash,14-22,53,13,30/361,60,80,,,,,,,,,,"Jet Hammer (Air, Uncharged)",27-28,77,10,361,30,100
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,"Jet Hammer (Air, Fully Charged)",9-11,70,27/16,361,10,70
+,,,,Standing Grab,7-8,36,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,9-10,45,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,10-11,42,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"4, 6",45,70,80,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"4, 9",60,60,79,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"4, 5",90,70,72,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,6,80,70,82,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,4-19,29,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-19,34,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-19,34,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,4-29,35,,,,,,,,,,,,,,,,,,,,

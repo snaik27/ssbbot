@@ -1,0 +1,35 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,108 [6-7th],Max Jumps,2,Jab 1,3-4,18,3,361,8,80/100/100,Nair (Hit 1),8-11,46,10,32,40,100,16,"1-7, 35>",Charge Shot,"Can Shoot From: 16, Full Charge: 140",54,3.0,361,14,42
+Run Speed,1.504 [37th],Wall Jump,Yes,Jab 2,6-9,30,8,361,30,95,Nair (Hit 2),16-17,-,9,45,40,100,-,-,Charge Shot (Full Charge),16-84,61,25.0,40,30,62
+Walk Speed,1.0615 [36th],Wall Cling,No,Dash Attack (Early),8-9,34,7 (+1),75,80,60,"Nair (Hit 2, Late)",18-24,-,8,45,10,98,-,-,Homing Missile,18-118,57,5.0,0,26,22
+Air Speed,1.03 [28th],Crawl,No,Dash Attack,10-13,-,10 (+1),75,80,60,Fair (Hit 1),6-7,60,3,80/280/60,W: 15,100,24,47>,Super Missile,21-84,59,10.0,65,50,65
+Fall Speed,1.3 [49-50th],Tether,Yes,Dash Attack (Late),14-18,-,6 (+1),75,80,60,Fair (Hit 2-4),"12-13, 18-19, 24-25",-,1.6,366/18,W: 30,100,-,-,"Screw Attack (Ground, Hit 1)",5-6 (Intangible: 3-6),-,2.0,95,W: 180/180/120/120,100
+Fast Fall Speed,2.08 [49-50th],Jumpsquat,4 frames,Ftilt (Angled Up),8-10,34,8/9/10/11,361,20/20/30/30,70/70/100/100,Fair (Hit 5),30-31,-,5,361,40,140,-,-,"Screw Attack (Ground, Hits 2-4)","7-8, 9-10, 11-12",-,1.0,96,W: 178/178/140,100
+Air Acceleration,0.05,Soft Landing Lag,2 frames,Ftilt,8-10,-,7/8/9/10,361,20/20/30/30,70/70/100/100,Bair,9-10,39,12/14,361,30/42,98,18,"1-8, 42>","Screw Attack (Ground, Hits 5-10)","13-14, 15-16, 17-18, 19-20, 21-22, 23-24",-,1.0,110/110/100,W: 50/50/80,100
+Gravity,0.077,Hard Landing Lag,4 frames,Ftilt (Angled Down),8-10,-,8/9/10/11,361,20/20/30/30,70/70/100/100,Bair (Late),11-14,-,9,361,20,90,-,-,"Screw Attack (Ground, Hit 11)",25-26,-,1.0,70,50,240
+SH Air Time,43 frames,FH Air Time,67 frames,Utilt,15-18,40,13/13/12/12,270/270/361/361,40,100,Uair (Hit 1),5-6,40,3,90/90/361,W: 30/30/0,100/100/130,12,"1-4, 34>","Screw Attack (Air, Hits 1-3)","5-6, 7-8, 9-10 (Intangible: 3-5)",-,1.0,140/140/110/110,25/25/100/100,0
+,,,,Dtilt,6-8,40,12,80,80,48,Uair (Hit 2-5),"8-9, 11-12, 14-15, 17-18",-,1,80,W: 30/30/0,100/100/130,-,-,"Screw Attack (Air, 4-7)","11-12, 13-14, 15-16, 17-18",-,1.0,366/366/100,B: 25/25 W: 50,0/0/100
+,,,,Fsmash (Angled Up),10-11,49,13/13/15,361,16/16/40,112/112/100,Uair (Hit 6),20-21,-,4,70,40,160,-,-,"Screw Attack (Air, 8-11)","19-20, 21-22, 23-24, 25-26",-,1.0,366/366/100,B: 25/25 W: 50,0/0/100
+,,,,Fsmash,10-11,-,12/12/14,361,16/16/40,112/112/100,Dair (Early),17-18,49,10,361,25,100,20,"1-3, 34>","Screw Attack (Air, Hit 12)",27-28,-,1.0,70,50,240
+,,,,Fsmash (Angled Down),10-11,-,11/11/13.5,361,16/16/40,112/112/100,Dair (Meteor),19-21,-,14,270,25,85,-,-,Bomb,63-80,54,4.0,361,22,45
+,,,,Usmash (Hit 1),11-12,57,3,366/110/95,W: 70/100/110,100,Dair (Late),22-23,-,11,361,25,100,-,-,Bomb (Explosion),1-18,-,5.0,361,15,45
+,,,,Usmash (Hit 2),15-16,-,3,160/240/95,W: 50/40/90,100,Zair (Hit 1),8-17,60,1.5,45,30,30,8,-,,,,,,,
+,,,,Usmash (Hit 3),19-20,-,3,366/240/95,W: 50/40/90,100,Zair (Hit 2),16-17,,3,45,30,100,-,-,,,,,,,
+,,,,Usmash (Hit 4),23-24,-,3,366/366/95,W: 50/50/80,100,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 5),27-28,-,6,80,50,150,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 1),9-10,45,10,31,70,46,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),17-18,-,12,31,70,48,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,16-25,70,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,16-26,68,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,17-28,84,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,9,42,60,55,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,8,40,60,55,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,"1%×5, 4",90,80,70,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,6,80,80,50,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-23,40,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-23,40,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

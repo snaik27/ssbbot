@@ -1,0 +1,38 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,MONADO ARTS,Damage Taken,Damage Dealt,Knockback Received,Knockback Dealt,Jump Height,Ground Speed,Aerial Speed,Fall Speed,Shield Health
+Weight,102 [15-16th],Max Jumps,2,Jab 1,5-6,26,3.5,70/60/88,W: 40,100,Nair,13-30,71,7.5/7.5/8.5,50,40,100,10,80>,Monado Arts Activation,Intangible: 1-14,6,-,-,-,-,翔 (Jump),+22% (1.22×),No change,No change,No change,Increased,No change,+50% (1.5×),+22% (1.22×),No change
+Run Speed,1.52 [35-36th],Wall Jump,No,Jab 2,5-7,34,3.5,66/70/80,W: 52,100,Fair,14-18,42,8/8/6.5,361,46,100,16,57>,Monado Arts Duration,960 Frames (16 seconds),-,-,-,-,-,疾 (Speed),No change,-20% (0.8×),No change,Decreased,Decreased,+70% (1.7×),+30% (1.3×),No change,No change
+Walk Speed,1.1 [30-32nd],Wall Cling,No,Jab 3,12-13,45,5.3,50,60,100,Bair,18-20,55,12.5,361,35,100,19,79>,Monado Arts Cooldown,600 Frames (10 seconds),-,-,-,-,-,盾 (Shield),-33% (0.67×),-30% (0.7×),-22% (0.78×),Decreased,Decreased,-40% (0.6×),-40% (0.6×),No change,+50% (1.5×)
+Air Speed,1.06 [24th],Crawl,No,Jab 3 (Late),14,-,4.2,70,70,100,Bair (Late),21-22,-,12.5/8.5,361,35,100,-,-,Backslash,22-,-,10/9/16/14 (+7),361/361/140/140,30,100,斬 (Buster),+13% (1.13×),+40% (1.4×),No change,-32% (0.68×),No change,No change,No change,No change,No change
+Fall Speed,1.5 [32-35th],Tether,No,Dash Attack,15-16,53,11.5,60,70,80,Uair (Hit 1),14-15,60,5.5,100/96,W: 80/60,100,15,79>,Backslash (Landing),1-2,41,10/9/15/13 (+10),361/361/140/140,25,100,撃 (Smash),No change,-50% (0.5×),+7% (1.07×),+18% (1.18×),No change,No change,No change,No change,No change
+Fast Fall Speed,2.4 [31-34th],Jumpsquat,5 frames,Ftilt,12-13,44,13.5/13.5/13.5/12,361,30,92,Uair (Hit 2),24-25,-,10.5/8,88,55,100,-,-,"Air Slash (Hit 1, Early)",10-11,-,6,78/91/85,W: 140/135/100,100,,,,,,,,,,
+Air Acceleration,0.04,Soft Landing Lag,2 frames,Utilt,11-12,40,8.5,85,70,90,Dair (Hit 1),14-15,61,6/7.5,172/160,W: 20,100,23,78>,Air Slash (Hit 1),12-14,-,5,85/86,W: 80/78,100,,,,,,,,,,
+Gravity,0.085,Hard Landing Lag,4 frames,Utilt (Late),13-23,-,8.5/8.5/7.5/7.5,85/85/108/108,70/70/65/65,90/90/85/85,Dair (Hit 2),23-24,-,11.5/11.5/10.5,270/361/361,10/10/55,90/85/85,-,-,"Air Slash (Hit 1, Late)",15-17,-,5,52/70,W: 43,100,,,,,,,,,,
+SH Air Time,39 frames,FH Air Time,60 frames,Dtilt,10-11,32,9.5/9.5/9.5/7.5,60,45,90,,,,,,,,,,Air Slash (Hit 2),15-16,-,5.5,48,35,170,,,,,,,,,,
+,,,,"Fsmash (Hit 1, Angled Up)",14-16,68,5.5,78/10/40,W: 28,100,,,,,,,,,,Vision,"Counters: 7-41 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,"Fsmash (Hit 2, Angled Up)",23,-,13/11.5,361,30,125,,,,,,,,,,Vision (Depreciated),"Counters: 7-30 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,Fsmash (Hit 1),14-15,68,5.5,78/10/40,W: 28,100,,,,,,,,,,Vision (Depreciated),"Counters: 7-22 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,Fsmash (Hit 2),23,-,13/11.5,361,30,115,,,,,,,,,,Vision (Depreciated),"Counters: 7-17 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,"Fsmash (Hit 1, Angled Down)",14-16,68,5.5,78/10/40,W: 28,100,,,,,,,,,,Vision (Depreciated),"Counters: 7-13 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,"Fsmash (Hit 2, Angled Down)",23,-,13/11.5,361,30,115,,,,,,,,,,Vision (Depreciated),"Counters: 7-11 (Intangible: 6-7, Air: 7-8)",70,-,-,-,-,,,,,,,,,,
+,,,,Usmash (Hit 1),18-21 (Ground only),68,4.5,105,W: 110,100,,,,,,,,,,"Vision (Grounded, Attack)",45-46 (Intangible: 1-45),97,10/7 (1.3×),50,70,84,,,,,,,,,,
+,,,,Usmash (Hit 1),18-29,-,4.5,92,W: 70/60,40/100,,,,,,,,,,"Vision (Aerial, Attack)",45-46 (Intangible: 9-44),97,10/7 (1.3×),50,70,84,,,,,,,,,,
+,,,,Usmash (Hit 2),30-33,-,13.5,89,45,98,,,,,,,,,,Vision (Forward Attack),29-30 (Intangible: 1-36),65,13/10 (1.3×),50,70,94,,,,,,,,,,
+,,,,Dsmash (Hit 1),18-19,83,14/14/14/11,361/45/55/361,50,95,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),23-24,-,12/12/12/10,361/45/55/361,50,95,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 3),28-29,-,10/10/10/8,361/45/55/361,55,90,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 4),35-36,-,8/8/8/6,361/361/361/361,60,90,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 5),41-42,-,6/6/6/4,361/361/361/361,60,90,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,7-8,30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,9-10,37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,10-11,35,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"3, 8",45,60,70,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"3, 9",135,70,63,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"3, 4",88,60,80,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"3, 4",50,75,115,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

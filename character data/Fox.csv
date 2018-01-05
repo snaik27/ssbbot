@@ -1,0 +1,32 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,79 [51-54th],Max Jumps,2,Jab 1,2,18,2,35/80/20,15,40,Nair,4-6,42,9,361,10,100,11,"1-3, 32>","Blaster (Early, Ground)",11-12,40,3.0,361,0.0,0
+Run Speed,2.184 [4th],Wall Jump,Yes,Jab 2,2-3,21,1,40/76/68,25/32/32,70/80/80,Nair (Late),7-25,-,6,361,0,100,-,-,Blaster (Ground),13-19,-,2.0,361,0.0,0
+Walk Speed,1.45 [3rd],Wall Cling,No,Rapid Jab,-,-,0.7,361,20,20,Fair (Hit 1),7-8,50,2,366/366/75/75,W: 120/B: 60,100/130,27,45>,"Blaster (Late, Ground)",20-30,-,1.4,361,0.0,0
+Air Speed,0.96 [39-40th],Crawl,No,Rapid Jab Finisher,3-4,33,2,361,30,170,Fair (Hits 2-4),"13-14, 19-20, 26-27",-,"1, 0.6, 0.8",366/366/75/75,W: 120/B: 60,100/150,-,-,"Blaster (Early, Aerial)",9-10,38,3.0,361,0.0,0
+Fall Speed,2.05 [1st],Tether,No,Dash Attack,4-7,36,6,70,55,90,Fair (Hit 5),32-33,-,3,70,60,130,-,-,Blaster (Aerial),11-17,-,2.0,361,0.0,0
+Fast Fall Speed,3.28 [1st],Jumpsquat,4 frames,Dash Attack (Late),8-15,-,4,70,40,90,Bair,9-11,49,13,30,20,88,15,"1-8, 15>","Blaster (Late, Aerial)",18-28,-,1.4,361,0.0,0
+Air Acceleration,0.08,Soft Landing Lag,2 frames,Ftilt (Up),6-8,24,8,361,10,110,Uair (Hit 1),9-10,36,5,92,W: 30,130,22,"1-8, 25>",Fox Illusion (Grounded),21-25,70,3.0,80,10.0,170
+Gravity,0.19,Hard Landing Lag,4 frames,Ftilt,6-8,-,6,361,10,110,Uair (Hit 2),12-13,-,11,85,30,100,-,-,Fox Illusion (Aerial),21-25,70,3.0,60,10.0,200
+SH Air Time,26 frames,FH Air Time,41 frames,Ftilt (Down),6-8,-,7,361,10,110,Dair (Hits 1-6),"5-6, 8-9, 11-12, 14-15, 17-18, 20-21",50,1.4,250/110,W: 5/B: 38,100/30,25,"1-4, 29>",Fire Fox (Hits 1-7),"20, 22, 24, 26, 28, 30, 32",-,2.0,110,28.0,30
+,,,,Utilt,3-5,28,9/7/6/6,110/84/80/80,22/18/18/18,110,Dair (Hits 7),23,-,3,60,50,140,-,-,Fire Fox (Hit 8),43-46,-,14.0,80,60.0,60
+,,,,Utilt (Late),6-7,-,6/6/5/5,110/84/80/80,22/18/18/18,110,Dair (Landing),1-3,-,1,45,20,150,-,-,"Fire Fox (Hit 8, Late)",47-72,-,8.0,80,60.0,60
+,,,,Dtilt,7-9,28,8/8/7/6,45/65/80/90,25,100,,,,,,,,,,Reflector,"6-7 (Roll/Jump cancellable on reflection, Reflects: 4- (1.4×, 50% Break Threshold))",41,2.0,10/40,66.0,32/45
+,,,,Fsmash,13-15,46,14,361,20,98,,,,,,,,,,,,,,,,
+,,,,Fsmash (Late),16-18,-,11,361,20,100,,,,,,,,,,,,,,,,
+,,,,Usmash,8-9 (Head Intangibility: 1-9),56,16/16/14,80,30,94,,,,,,,,,,,,,,,,
+,,,,Usmash (Late),10-11,-,11,361,10,100,,,,,,,,,,,,,,,,
+,,,,Dsmash,6-7 (Leg Intangibility: 6-7),53,14/14/12/12,25/25/361/361,30,75,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,29,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,10-11,36,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,11-12,34,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"4, 3",40,35,130,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"Throw: 2, Lasers: 2%×3",45,80,85,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"Throw: 2, Lasers: 2%×3",90,75,110,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"Lasers: 1.5%×4, Throw: 1",60,85,100,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-15,25,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-14,27,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-14,27,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-25,31,,,,,,,,,,,,,,,,,,,,

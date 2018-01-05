@@ -1,0 +1,33 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,103 [14th],Max Jumps,2,Light Jab 1,2-3,16,2,70/85,W: 15,100.0,Nair,4-6,28,8,361,20,100,6,34>,Light Hadouken,13-70,58,5 (True: 6.25),0/60,45,10
+Run Speed,1.6 [28-30th],Wall Jump,No,Medium Jab 1,9-10,33,10,50,40,110.0,Nair (Late),7-21,-,4.5,361,13,90,-,-,Medium Hadouken,-,-,5.5 (True: 6.875),0/60,45,10
+Walk Speed,0.75 [56th],Wall Cling,No,Jab 2,3-5,28,3,75/82,W: 24,100.0,Fair,6-7,38,15/9 (+15),61/70,80/65,49/25,14,41>,Heavy Hadouken,-,-,6 (True: 7.5),0/60,45,10
+Air Speed,1.12 [12-13th],Crawl,No,Jab 3,8-10,36,5,45,70,50.0,Fair (Late),8-14,-,13/8 (+15),61/70,80/65,49/25,-,-,Light Shakunetsu Hadouken,13-70 (Rehit rate: 3),-,1.1,0,8,10
+Fall Speed,1.6 [24-27th],Tether,No,Dash Attack,7-9,41,12 (+2),50,80,65.0,Bair,8-9,42,16/13,361,12,90,12,25>,Medium Shakunetsu Hadouken,- (Rehit rate: 3),-,1.1,0,11,10
+Fast Fall Speed,2.24 [39-41st],Jumpsquat,5 frames,Dash Attack (Late),10-15,-,8 (+2),80,80,60.0,Uair (Hit 1),6,36,5,367,W: 20,100,14,18>,Heavy Shakunetsu Hadouken,- (Rehit rate: 3),-,1.1,0,14,10
+Air Acceleration,0.025,Soft Landing Lag,2 frames,Light Ftilt,8-11 (Foot Intangible: 6-11),28,6.8,55/72,66,46.0,Uair,10,-,6,75,0,172,-,-,Shakunetsu Hadouken (Final Hit),-,-,4,55,60,60
+Gravity,0.12,Hard Landing Lag,4 frames,Medium Ftilt (Hit 1),13,35,3 (+8),270,W: 15,100.0,Dair,8-12,46,15/12/11,300/84/48,10/14/20,80/60/80,18,"1-2, 33>",Tatsumaki Senpukyaku (Early),8-9,-,8 (True: 9.28),80,105,30
+SH Air Time,31 frames,FH Air Time,43 frames,Medium Ftilt (Hit 2),15-16,-,6 (+20),46,60,90.0,,,,,,,,,,Light Tatsumaki Senpukyaku (Grounded),10-,64,9 (True: 10.44),55,80,50
+,,,,Light Utilt,3-6,15,2,84/105,19,94.0,,,,,,,,,,Medium Tatsumaki Senpukyaku (Grounded),-,96,10.5 (True: 12.18),62,80,57
+,,,,Medium Utilt,7 (Upper Body Intangible: 4-10),38,12/12/12/8,80,70,70.0,,,,,,,,,,Heavy Tatsumaki Senpukyaku (Grounded),,96,12 (True: 13.92),70,80,65
+,,,,Medium Utilt (Late),8-11,-,12,80,70,70.0,,,,,,,,,,Light Tatsumaki Senpukyaku (Aerial),10-,64,8 (True: 9.28),50,80,50
+,,,,Light Dtilt,2-3,16,1.6,50,W: 9/11/5,100.0,,,,,,,,,,Medium Tatsumaki Senpukyaku (Aerial),,96,9.5 (True: 11.02),50,80,57
+,,,,Medium Dtilt,7-8,29,7/5.5,64,70,23.0,,,,,,,,,,Heavy Tatsumaki Senpukyaku (Aerial),-,96,11 (True: 12.76),50,80,65
+,,,,Fsmash,15-17,46,16/16/17.5,361,25,94.0,,,,,,,,,,Shoryuken (All Versions),"Intangible 3-5, True: 1-6",-,-,-,-,-
+,,,,Usmash,9-10,45,17,83,32,76.0,,,,,,,,,,"Light Shoryuken (Early, Grounded)",6,-,13 (True: 15.6),80,80,58
+,,,,Usmash (Late),11-12,-,13.5,83,32,81.0,,,,,,,,,,"Medium Shoryuken (Early, Grounded)",6,-,14 (True: 16.8),80,80,64
+,,,,Dsmash,5-6,42,16/15/12/12,45/45/80/80,50,50.0,,,,,,,,,,"Heavy Shoryuken (Early, Grounded)",6,-,15 (True: 18),80,80,69
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,Shoryuken (Grounded),7-8,-,12 (True: 14.4),80,80,64
+,,,,Standing Grab,6-7,30,,,,,,,,,,,,,,"Shoryuken (Late, Grounded)",9-19,-,7 (True: 8.4),70,60,90
+,,,,Dash Grab,8-9,37,,,,,,,,,,,,,,"Light Shoryuken (Early, Aerial)",6,-,12 (True: 14.4),80,80,49
+,,,,Pivot Grab,9-10,35,,,,,,,,,,,,,,"Medium Shoryuken (Early, Aerial)",6,-,13 (True: 15.6),80,80,54
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,"Heavy Shoryuken (Early, Aerial)",6,-,14 (True: 16.8),80,80,60
+,,,,Fthrow,Yes,9,50,75,45,,,,,,,,,,,Shoryuken (Aerial),7-8,-,10 (True: 12),80,80,57
+,,,,Bthrow,Yes,12,52,75,45,,,,,,,,,,,"Shoryuken (Late, Aerial)",9-19,-,7 (True: 8.4),70,70,60
+,,,,Uthrow,Yes,8,88,55,75,,,,,,,,,,,Focus Attack,"(Special Armor: 1-20, Dash Cancelable from 26)",-,-,-,-,-
+,,,,Dthrow,Yes,"5 (+50), 4",76,50,137,,,,,,,,,,,Focus Attack (No Charge),31-32,76,12 (+15),60,100,10
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,Focus Attack (Stage 2),- (Causes Crumple),-,10 (+22),60,0,100
+,,,,Spotdodge,3-17,28,,,,,,,,,,,,,,Focus Attack (Stage 3),"70-71 (Special Armor: 1-59, Unblockable)",115,17 (+30),60,0,100
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,4-25,34,,,,,,,,,,,,,,,,,,,,

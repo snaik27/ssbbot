@@ -1,0 +1,26 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,113 [5th],Max Jumps,2,Jab 1,7-8,29,8/10/6,361,38/30/40,90/90/105,Nair (Hit 1),7-8,42,7,55/70/55/100,20/20/50/20,30/30/110/30,17,"1-3, 38>",Warlock Punch,70-71 (Super Armor: 11-66),118,30,50,120,42
+Run Speed,1.218 [56th],Wall Jump,No,Dash Attack,10-12,38,14 (+1),70,50,80,"Nair (Hit 1, Late)",9-13,-,5.25,55/70/55/100,20/20/50/20,30/30/110/30,-,-,Warlock Punch (Aerial),70-71,-,38,30,30,100
+Walk Speed,0.73 [57th],Wall Cling,No,Dash Attack (Late),13-19,-,10,80,45,60,Nair (Hit 2),17-18,-,12,361,25,106,-,-,Warlock Punch (B-Reversed),80-81 (Super Armor: 11-58),128,37,361,30,100
+Air Speed,0.79 [56th],Crawl,No,Ftilt,10-12,40,13/12/12,22,30,88,"Nair (Hit 2, Late)",19-29,-,9,361,25,106,-,-,"Warlock Punch (B-Reversed, Aerial)",80-81,-,40,30,40,100
+Fall Speed,1.65 [17-21st],Tether,No,Utilt (Windboxes),6-70,115,0,180/180/0/0,W: 1,100,Fair,14-19,45,17/18,361,20,93,22,"1-6, 55>",Flame Choke (Ground),16-30,60,-,-,-,-
+Fast Fall Speed,2.64 [18-22nd],Jumpsquat,7 frames,Utilt (Hitbox),81-84,-,28/28/20/18 (+20),361/361/80/80,60,80,Bair,10-12,36,16/17/16,361,40,89,19,"1-6, 22>",Flame Choke (Aerial),19-31,-,-,-,-,-
+Air Acceleration,0.03,Soft Landing Lag,2 frames,Dtilt,10-12,36,13,80/70/60,30,100,Uair (Early),6-10,34,13/12,361,35,100,19,25>,"Flame Choke (Ground, Attack)",32 (Super Armor: 17-40),62,12,361,60,90
+Gravity,0.10784,Hard Landing Lag,5 frames,Fsmash (All Angles),21-26,60,24,40,35/30,83/75,Uair,11-13,-,12/10,30,30,80,-,-,"Flame Choke (Aerial, Attack)",1-2,41,15,361,40,82
+SH Air Time,30 frames,FH Air Time,44 frames,Usmash,21-23,42,24/24/21,85/78/75,40,71/71/75,Uair (Late),14-16,-,8/6,0,20,70,-,-,Dark Dive (Command Grab),14-28,-,-,-,-,-
+,,,,Dsmash (Hit 1),15-18,64,6,160/140/154/50,W: 70/80/108/80,100,Dair,16-18,47,19/17,270/361,20,100,26,"1-3, 32>",Dark Dive (Attack),34-36,-,7,70,70,90
+,,,,Dsmash (Hit 2),35-38,-,15/15/13,130,60,94,,,,,,,,,,Dark Dive (Latch),-,-,1.2,361,50,100
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,Dark Dive (Latch),-,60,9,361,40,90
+,,,,Standing Grab,7-8,36,,,,,,,,,,,,,,Wizard's Foot (Ground),16-35,77,14/14/12 (+4),45,60,70
+,,,,Dash Grab,11-12,45,,,,,,,,,,,,,,Wizard's Foot (Aerial),16-18,58,15 (+10),290,50,100
+,,,,Pivot Grab,10-11,42,,,,,,,,,,,,,,"Wizard's Foot (Aerial, Late)",19-38,-,14 (+10),80,50,100
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,Wizard's Foot (Landing),2-3,45,8,80,80,35
+,,,,Fthrow,No,"5, 8",43,60,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"5, 5",43,30,130,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"7, 3",90,70,105,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,7,65,70,50,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,4-19,29,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-19,34,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-19,34,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,4-29,35,,,,,,,,,,,,,,,,,,,,

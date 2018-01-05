@@ -1,0 +1,34 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,104 [11-13th],Max Jumps,2,Jab 1,3-5,18,2,80,W: 20,100,Nair (Hit 1),7-8,45,4,86/78/74,W: 55,100,12,"1-3, 32>",Falcon Punch,53-57,110,25,361,0,90
+Run Speed,2.32 [2nd],Wall Jump,Yes,Jab 2,5-7,19,2,80,W: 20,100,Nair (Hit 2),20-21,-,6,361,45,130,-,-,Falcon Punch (Aerial),53-57,-,22,361,0,90
+Walk Speed,0.94 [42nd],Wall Cling,No,Jab 3,6-8,33,5,361,70,100,Fair,14,46,19/6,32/361,30/35,93/80,30,"1-4, 42>",Falcon Punch (B-Reversed),61-65,118,28,361,0,90
+Air Speed,1.1 [14-19th],Crawl,No,Rapid Jab,-,-,1,85/75/90,15/15/8,50/50/30,Fair (Late),15-30,-,3,361,35,80,-,-,"Falcon Punch (B-Reversed, Aerial)",61-65,-,25,361,0,90
+Fall Speed,1.837 [4th],Tether,No,Rapid Jab Finisher,6-7,40,2,45,110,70,Bair,10-11,36,13,361,25,100,12,"1-4, 19>",Raptor Boost (Ground),Inert Detector: 16-35,80,-,-,-,-
+Fast Fall Speed,2.9392 [5th],Jumpsquat,5 frames,Dash Attack,7-9,38,10 (+1),65,90,50,Bair (Late),12-15,-,8,361,25,100,-,-,Raptor Boost (Aerial),Inert Detector: 19-35,-,-,-,-,-
+Air Acceleration,0.065,Soft Landing Lag,2 frames,Dash Attack (Late),10-16,-,6 (+1),65,90,50,Uair,6-10,34,11/10,70,10,100,9,24>,"Raptor Boost (Attack, Ground)",4-8,36,9 (+4),85,100,75
+Gravity,0.12,Hard Landing Lag,4 frames,Ftilt (Angled Up),9-11,32,10/9/9,361,10,100,Uair (Late),11-12,-,10/9,30,8,80,-,-,"Raptor Boost (Attack, Aerial)",5-6,-,8 (+2),60/275/60,60,80/70/80
+SH Air Time,34 frames,FH Air Time,52 frames,Ftilt,9-11,-,9/9/8,361,10,100,Dair,16-18,45,14,270/361,10/40,100,21,"1-3, 39>",Falcon Dive (Command Grab),14-30,-,-,-,-,-
+,,,,Ftilt (Angled Down),9-11,-,10/9/9,361,10,100,,,,,,,,,,Falcon Dive (Latch),-,-,5,361,0,0
+,,,,Utilt,17-20,40,11,60/275/60/60,35/22/35/35,100,,,,,,,,,,Falcon Dive (Attack),-,61,12,50,40,82
+,,,,Dtilt,11-12,35,10,25,38,80,,,,,,,,,,"Falcon Kick (Early, Ground)",18-20,74,13,80,60,80
+,,,,Fsmash (Angled Up),19-22,60,20,45,24,95,,,,,,,,,,Falcon Kick (Ground),21-28,-,11,68,90,40
+,,,,Fsmash,19-22,-,19,43,24,95,,,,,,,,,,"Falcon Kick (Late, Ground)",29-38,-,7,50,80,60
+,,,,Fsmash (Angled Down),19-22,-,20,38,24,83,,,,,,,,,,"Falcon Kick (Early, Aerial)",16-17,60,15,361,40,65
+,,,,Usmash (Hit 1),22,52,6/6/11/11,95/110/80/90,W: 120/140/20/20 B: 0/0/30/30,90,,,,,,,,,,Falcon Kick (Aerial),18-25,-,13,361,40,65
+,,,,Usmash (Hit 2),28,-,13/13/12,83/85/70,30,104/106/112,,,,,,,,,,"Falcon Kick (Late, Aerial)",26-33,-,11,361,40,65
+,,,,Dsmash (Hit 1),19-20,49,14,361,30,90,,,,,,,,,,Falcon Kick (Landing),2-3,49,9,80,80,20
+,,,,Dsmash (Hit 2),29-30,-,18,361,20,90,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,7-8,31,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,9-10,38,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,12-13,37,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"5, 4",45,55,120,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"5, 4",135,60,130,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"4, 3",85,80,110,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,6,65,80,45,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,

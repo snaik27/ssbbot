@@ -1,0 +1,10 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,107 [8-9th],Max Jumps,2,Jab 1,4-5,24.0,3.0,65.0,W: 50,100.0,Nair,12-21,60,10.0,80,35,105,14,"1-5, 64>",Eruption (Charging),Starts Charging: Frame 20,Max Charge: Frames 180-189,-,-,-,-
+Run Speed,1.5 [38-42nd],Wall Jump,No,,,,,,,,Nair (Late),22-27,-,7.0,80,35,105,-,-,Eruption,30-34,79,9,80/80/270/85,40,100
+Walk Speed,0.869 [50th],Wall Cling,No,,,,,,,,Fair,12-16,55,13.0,361,30,100,18,"1-2, 36>",Eruption (Late),35-36,-,9,270/85,40,100
+Air Speed,1.08 [21-23rd],Crawl,No,,,,,,,,Bair,7-9,55,14.0,361,30,100,19,"1-2, 35>",,,,,,,
+Fall Speed,1.65 [17-21st],Tether,No,,,,,,,,Uair,13-29,57,11.0,80,55,94,15,"1-5, 51>",,,,,,,
+Fast Fall Speed,2.64 [18-22nd],Jumpsquat,7 frames,,,,,,,,Dair,16-17,55,15.0,50/270,30/20,100/90,23,"1-4, 48>",,,,,,,
+Air Acceleration,0.04,Soft Landing Lag,2 frames,,,,,,,,,,,,,,,,,,,,,,,
+Gravity,0.092,Hard Landing Lag,4 frames,,,,,,,,,,,,,,,,,,,,,,,
+SH Air Time,37 frames,FH Air Time,52 frames,,,,,,,,,,,,,,,,,,,,,,,

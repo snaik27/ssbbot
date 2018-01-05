@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Float,-,-.1,-.2,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,VEGETABLE,Chance,Damage Dealt
+Weight,89 [43rd],Max Jumps,2,Duration (Frames),150.0,Duration (Seconds),2.5,Jab 1,2-3,28,2,74/78/78,W: 20,100,Nair,5-8,49,13,361,20,90,11,"1-4, 36>",Toad,Counters: 10-34 (Intangible: 11-14),63,-,-,-,-,Normal,,9%
+Run Speed,1.4175 [49th],Wall Jump,No,,,,,Jab 2,2-3,30,3,361,30,100,Nair (Late),9-19,-,6/6/5,361,0,100,-,-,Toad (Attack),"1-22 (Intangible: 1-2, Rehit rate: 3)",60,2,30,20,150,Winking,,13%
+Walk Speed,0.86 [52nd],Wall Cling,No,,,,,Dash Attack (Hit 1),6-9,38,4,70/50,W: 50/70,100,Fair,16-20,58,15,361,45,84,22,"1-9, 41>",Toad (Attack),4-22 (Rehit rate: 3),-,2,366/361,W: 20/B: 20,100/150,Dot Eyes,,16%
+Air Speed,0.95 [42nd],Crawl,No,,,,,Dash Attack (Hit 2),17-19,-,6,65,50,140,Bair,6-7,54,12,361,30,92,18,"1-4, 30>","Toad (Attack, Hit 9)",25-26,-,2,361,15,300,Stitchface,,30%
+Fall Speed,1.15 [57th],Tether,No,,,,,Ftilt (Early),7,37,7,88/80,50,102,Bair (Late),8-13,-,7,361,10,70,-,-,Peach Bomber (Ground),Inert Detector: 14-29,65,-,-,-,-,Bob-omb,1/250,32%
+Fast Fall Speed,1.84 [57th],Jumpsquat,5 frames,,,,,Ftilt,8-9,-,7/7/8,88/80/75,50/50/55,102,"Uair (Hit 1, Early)",10,46,4,366,W: 30,100,12,"1-4, 41>",Peach Bomber (Aerial),Inert Detector: 20-44,95,-,-,-,-,Mr. Saturn,1/166,6%
+Air Acceleration,0.1,Soft Landing Lag,2 frames,,,,,Ftilt (Late),10-15,-,6,92,40,120,Uair (Hit 1),11,-,4,366,W: 30,100,-,-,Peach Bomber (Hitbox),1-3,21,10,361,60,69,,,
+Gravity,0.068,Hard Landing Lag,4 frames,,,,,Utilt,9-13,38,8/10,94/92,40/65,84,"Uair (Hit 1, Late)",12-13,-,4,366/366/366/366,W: 30/30/30/55,100/100/100/100,-,-,Parasol,7-9,-,3,80/98,W: 180/160,100,,,
+SH Air Time,41 frames,FH Air Time,64 frames,,,,,Dtilt,13-14 (Arm Intangibility: 9-14),28,7,275/80,60/15,105,Uair (Hit 2),14,-,6,76/70,50,112,-,-,Parasol,11-27 (Rehit rate: 5),-,1,366,W: 90,100,,,
+,,,,,,,,Fsmash (Tennis Racket),15-17,46,13,28,80/80/80/86,56/56/56/60,"Uair (Hit 2, Late)",15-16,-,6,76/70/70,50,112,-,-,Parasol (Final Hit),31-32,-,4,81,90,70,,,
+,,,,,,,,Fsmash (Golf Club),15-17,46,15,361,65,60,Dair (Hits 1-3),"12-13, 18-19, 24-25",39,2/1,70,13,30,13,"1-11, 38>",Parasol (Open),11-12,-,3,80,90,100,,,
+,,,,,,,,Fsmash (Frying Pan),15-17,46,18,80,70,65,Dair (Hit 4),30-31,-,5,60,60,110,-,-,Vegetable,Generates Item on: Frame 1,43,-,30,30,35,,,
+,,,,,,,,Usmash,14-16 (Head and Arm Intangibility: 14-20),45,17/15/12/12,90/90/75/75,24/50/40/40,97,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Usmash (Late),17-20,-,10/12,85,60,100,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dsmash (Hits 1-4),"6-7, 11-12, 16-17, 21-22",55,2/3/3,15/170/170,W: 30/20/20,100,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dsmash (Hit 5),26-27,-,3,361,40,180,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Standing Grab,6-7,32,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dash Grab,8-9,40,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Pivot Grab,10-11,38,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Fthrow,No,"2, 8",45,48,83,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Bthrow,No,"2, 9",140,35,95,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Uthrow,No,"2, 6",88,72,80,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dthrow,No,"1, 7",106,60,60,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,,,,

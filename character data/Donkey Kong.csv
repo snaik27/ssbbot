@@ -1,0 +1,32 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,122 [2nd],Max Jumps,2,Jab 1,5-6,25,4,361/110/361/130,0/35/0/45,100/25/100/25,Nair,10-13,39,11,361,20,100.0,17,"1-9, 27>",Giant Punch,Swings to Charge: 10,-,Extra Damage per Swing: 2%,-,-,-
+Run Speed,1.7031 [22nd],Wall Jump,No,Jab 2,6-7,35,6,70,40,100,Nair (Late),14-26,-,8,361,10,100.0,-,-,Giant Punch (Uncharged),18 (Arm Intangible: 4-20),63,12,80,15,100
+Walk Speed,1.3 [9th],Wall Cling,No,Dash Attack,9-12,42,10 (+1),53,85,53,Fair,18-20,56,16,361,20,85.0,29,78>,"Giant Punch (Uncharged, Late)",19-20,-,10,361,15,100
+Air Speed,1.15 [9-11th],Crawl,No,Dash Attack (Late),13-24,-,8 (+1),45,60,65,"Fair (Late, Meteor)",21-22,-,15/13,270/361,30,100.0,-,-,Giant Punch (Full Charge),19-20 (Super Armor: 11-20),48,28/28/28/18,361,10,80/80/80/50
+Fall Speed,1.63 [22nd],Tether,No,Ftilt (High),9-11 (Arm Intangibility: 7-11),38,11,361,10,100,Bair,7-8,32,13,361,20,97.0,18,"1-6, 31>","Giant Punch (Uncharged, Aerial)",18,-,8,80,15,100
+Fast Fall Speed,2.608 [23rd],Jumpsquat,6 frames,Ftilt,9-11 (Arm Intangibility: 1-25),-,10,361,10,100,Bair (Late),9-16,-,8,361,10,100.0,-,-,"Giant Punch (Uncharged, Aerial, Late)",19-20,-,6,361,15,100/100/60
+Air Acceleration,0.05,Soft Landing Lag,2 frames,Ftilt (Low),9-11 (Arm Intangibility: 1-25),-,9,361,10,100,Uair,6-10 (Head Intangible: 1-10),38,13,90,32,90.0,25,"1-5, 26>","Giant Punch (Full Charge, Aerial)",18 (Super Armor: 17-20),-,15,80,40,80
+Gravity,0.08505,Hard Landing Lag,5 frames,Utilt,5-11 (Arm Intangibility: 5-25),39,9/10/11,100,40,105/110/115,Dair,14-16,55,16/13,270/361,30/20,90.0,24,"1-2, 50>","Giant Punch (Full Charge, Aerial, Late)",19-20,-,25/25/25/20,361,10,80/80/80/50
+SH Air Time,40 frames,FH Air Time,58 frames,Dtilt,7-9 (Arm Intangibility: 1-9),23,7/7/6,361,10,80,,,,,,,,,,Headbutt (Ground),20-21,64,10/8 (+25),270/70,20/15,40
+,,,,Fsmash,22-23 (Head and Arms Intangible: 20-26),55,20/19,46/361,30/25,91,,,,,,,,,,Headbutt (Air),20-21,64,10/8 (+25),270/70,30/15,40
+,,,,Usmash,14-15 (Head and Arms Intangible: 12-15),50,18 (+4),90,30,83,,,,,,,,,,"Spinning Kong (Hit 1, Grounded)","19 (Super Armor 8-17, Arms Intangible: 19-24)",93,7,361/140/140,60,90
+,,,,Dsmash,11-12 (Arms Intangible: 11-14),56,17/17/14/14 (+1),70/70/82/82,35,88,,,,,,,,,,Spinning Kong (Grounded),25-58 (Rehit rate: 7),-,1.3,20/180/180,W: 150/45/45,100/50/50
+,,,,Dsmash (Late),13-14,-,18/18/14/14,55/55/98/98,30/30/35/35,88,,,,,,,,,,"Spinning Kong (Final Hit, Grounded)",62,-,4,361,40,170
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,"Spinning Kong (Hit 1, Aerial)",4-6 (Intangible: 3-6),-,10,361,40,80
+,,,,Standing Grab,8-9,31,,,,,,,,,,,,,,"Spinning Kong (Hits 2-5, Aerial)","12-19, 20-27, 28-35, 36-43 (Arm intangibility: 12-43)",-,5/5/4/4,361,20,70
+,,,,Dash Grab,10-11,39,,,,,,,,,,,,,,"Spinning Kong (Hits 6-8, Aerial)","44-51, 52-59, 60-67",-,2,361,0,100
+,,,,Pivot Grab,11-12,37,,,,,,,,,,,,,,Hand Slap,"19-20, 30-31... (Ground Only)",75,14 (+1),78/84/84/78,82,23
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,"Hand Slap (Hit 1, Aerial)",19-21,62,5,90,W: 36,100
+,,,,Fthrow,No (Transitions to Cargo Throws),-,-,-,-,,,,,,,,,,,"Hand Slap (Hit 2, Aerial)",28-31,-,6,270,30,100
+,,,,Fthrow (Cargo),No,10,60,80,50,,,,,,,,,,,,,,,,,
+,,,,Bthrow (Cargo),No,12,72,70,50,,,,,,,,,,,,,,,,,
+,,,,Uthrow (Cargo),No,10,92,58,52,,,,,,,,,,,,,,,,,
+,,,,Dthrow (Cargo),No,7,48,50,80,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,11,40,60,65,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,9,90,70,50,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,7,361,60,50,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,4-19,29,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,4-29,35,,,,,,,,,,,,,,,,,,,,

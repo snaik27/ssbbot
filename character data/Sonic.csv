@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,94 [33-36th],Max Jumps,2,Jab 1,3,20,2,92/60/361,W: 18,100,Nair (Early),6-9,50,12.0,75,30,80,16,48>,Homing Attack (Earliest),22-,-,5,55,45,90
+Run Speed,3.5 [1st],Wall Jump,Yes,Jab 2,2-3,22,2,80/60/48,W: 18,100,Nair,10-19,-,8.0,75,20,85,-,-,Homing Attack (No Input),34-,79,12,55,45,90
+Walk Speed,1.375 [7th],Wall Cling,No,Jab 3,4-6,36,4,50,50,110,Nair (Late),20-38,-,5.0,75,20,90,-,-,Spring Jump (Grounded),Duration: 235 Frames,-,-,-,-,-
+Air Speed,1.15 [9-11th],Crawl,No,Dash Attack,5-15 (Rehit rate: 4),62,1,0,60,40/20,Fair (Hits 1-5),"5, 7, 9, 11, 13",46,0.8,130/60/56/340,W: 30,100,26,"1-2, 34>",Spring Jump (Aerial),4- (Intangible: 5-13),19,4,361,30,90
+Fall Speed,1.45 [38-39th],Tether,No,Dash Attack (Final Hit),17-20,-,3,70,80,125,Fair (Hit 6),15,-,3.0,361,60,135,-,-,Spin Dash,17-,-,7,70,70,46
+Fast Fall Speed,2.32 [37-38th],Jumpsquat,5 frames,"Ftilt (All Angles, Hit 1)",6,36,4,28,60,70,Bair,13-14,38,14.0,361,30,90,30,"1-4, 33>",Spin Dash (Release),1- (Intangible: 1-6),-,7,70,70,46
+Air Acceleration,0.04,Soft Landing Lag,2 frames,"Ftilt (All Angles, Hit 2)",8-11,-,7/5/5,361,30,115,Bair (Late),15-19,-,10.0,361,40,100,-,-,Spin Charge (Release),1- (Rehit rate: 2),-,-,-,-,-
+Gravity,0.09,Hard Landing Lag,4 frames,Utilt (Hit 1),7,40,2,96,W: 100,100,Uair (Hit 1),5-7,40,3.0,100/100/118/118,W: 90/90/120/120,100,21,"1-4, 16>",,,,,,,
+SH Air Time,39 frames,FH Air Time,60 frames,"Utilt (Hit 1, Late)",8-9,-,2,96/90/365/365,W: 100/60/35/12,100,Uair (Hit 2),14-15,-,6.0,91,66,82,-,-,,,,,,,
+,,,,Utilt (Hit 2),18-19,-,6,78,40,120,Dair (Early),17-18,46,8.0,70,80,70,38,"1-3, 41>",,,,,,,
+,,,,Dtilt,6-7,28,6,361,30,80,Dair,19-22,-,8.0,70/285,80/30,70/90,-,-,,,,,,,
+,,,,Fsmash (All Angles),18-20,48,14,361,30,101,Dair (Late),23-32,-,7.0,70,80,70,-,-,,,,,,,
+,,,,Usmash (Hit 1),19 (Intangible: 18-20),66,5,80/90,60,85,,,,,,,,,,,,,,,,
+,,,,Usmash (Hits 2-7),"21, 23, 25, 27, 29, 31",-,1,220/220/130/130,W: 60,100,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 8),33-34,-,3,82,80,165,,,,,,,,,,,,,,,,
+,,,,Dsmash,12-13,55,12,30,55/50,63/80,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,31,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,10-11,38,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,10-11,37,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"1, 6",70,100,70,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,7,140,70,79,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"1, 5",92,92,80,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"1%×3, 4",20,80,35,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-15,25,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-25,31,,,,,,,,,,,,,,,,,,,,

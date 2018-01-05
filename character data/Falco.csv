@@ -1,0 +1,32 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,82 [44-45th],Max Jumps,2,Jab 1,2-4,23,3,68/77/80,35,30,Nair (Hit 1),3-5,49,3.0,367,W: 22,100.0,15,"1-2, 43>",Blaster,11-43,59,3,361,W: 2,100
+Run Speed,1.472 [41st],Wall Jump,Yes,Jab 2,3-5,26,2,80/50/45,30,30,Nair (Hits 2-3),"6-9, 14-17",-,2.0,367,W: 22,100.0,-,-,Blaster (Aerial),9-41,50,3,361,W: 2,100
+Walk Speed,1.28 [10th],Wall Cling,No,Rapid Jab,-,-,0.4,30/50/70,W: 3,100,Nair (Hit 4),23-24,-,4.0,361,55,130.0,-,-,Falco Phantasm (Ground),18-22,61,7,80,40,100
+Air Speed,0.93 [46th],Crawl,No,Rapid Jab Finisher,5-6,40,3,45,60,100,Fair,10-27 (Rehit rate: 4),50,1.0,366,W: 60,100.0,25,"1-5, 46>",Falco Phantasm (Aerial),18-22,67,7/6,80/270,68/40,60/50
+Fall Speed,1.8 [5-8th],Tether,No,Dash Attack,8-11,40,9,65,80,70,Fair (Final Hit),28-29,-,4.0,361,55,145.0,-,-,Fire Bird (Hits 1-7),"20, 22, 24, 26, 28, 30, 32",-,2,70,40,40
+Fast Fall Speed,2.88 [7-9th],Jumpsquat,6 frames,Dash Attack (Late),12-18,-,6,40,70,70,Fair (Landing),1,-,3.0,45,30,160.0,-,-,Fire Bird (Hit 8),44-47,-,3,361,30,50
+Air Acceleration,0.09,Soft Landing Lag,2 frames,Ftilt (All Angles),6-8,28,9,361,0,100,Bair,4-5,38,13.0,361,0,130.0,15,"1-3, 15>",Fire Bird (Hits 9-14),"49, 51, 53, 55, 57, 59",-,2,365,30,50
+Gravity,0.13,Hard Landing Lag,4 frames,Utilt (Hit 1),5 (Ground Only),37,4,106,W: 100,100,Bair (Late),6-11,-,7.0,361,30,100.0,-,-,Fire Bird (Hit 15),61,-,2,361,70,90
+SH Air Time,32 frames,FH Air Time,62 frames,"Utilt (Hit 1, Late)",6-9,-,4/4/3,100/100/270,W: 25/20/15,100,Uair,7-11,34,10.0,65/75/85,35,90.0,15,"1-3, 23>",Reflector,5-14 (Reflects: 1-33),51,5 (+5),361,35,30
+,,,,Utilt (Hit 2),12-16,-,5,90/90/97,30,150,Dair,16-19,52,13.0,285/80,10,80.0,23,"1-3, 38>",,,,,,,
+,,,,Dtilt,7-9,28,12/11/9,75,50/35/35,90/88/88,Dair (Late),20-30,-,8.0,361,20,90.0,-,-,,,,,,,
+,,,,Fsmash,17-19,49,15,361,42,90/93/96,,,,,,,,,,,,,,,,
+,,,,Fsmash (Late),20,-,10,361,30,90,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 1),"7-8 (Ground Only, Foot Intangible: 7-12)",50,4,110/110/130,70,18,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 1, Late)",9-12 (Foot Intangible: 13-20),-,4,110/110/220,B: 70/70/W: 15,18/18/100,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 2),13-20,-,12,80,31,104,,,,,,,,,,,,,,,,
+,,,,Dsmash,7-9 (Leg Intangibility: 3-7),47,15/15/12/12,25/25/80/80,20,78,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,8-9,32,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,10-11,40,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,11-12,38,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"4, 3",45,35,135,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"6, 3","35, 50","80, 60","60, 80",,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"4, 4","94, 90","60, 60","100, 80",,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"2, 3",50,60,110,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-16,26,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-26,32,,,,,,,,,,,,,,,,,,,,

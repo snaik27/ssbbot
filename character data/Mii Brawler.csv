@@ -1,0 +1,51 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,100 [17-20th],Max Jumps,2,Jab 1,2-3,16,3,45/80,W: 10/15,100,Nair,3-5,56,10.0,361,20,100,10,"1-2, 37>",Neutral 1: Shot Put,28-?,80,15,67,50,64
+Run Speed,1.72 [21st],Wall Jump,Yes,Jab 2,2-3,19,2,94/45/45,W: 25/15/15,100,Nair (Late),6-29,-,5.0,361,20,90,-,-,"Neutral 2: Ultimate Uppercut (No Charge, Ground)",19,66,8,80,40,100
+Walk Speed,1.15 [24-27th],Wall Cling,No,Rapid Jab,?,?,?,?,?,?,Fair (Hit 1),8-9,45,4.0,366,40,100,14,"1-2, 43>","Neutral 2: Ultimate Uppercut (No Charge, Ground, Late)",20-21,-,5,80,20,82
+Air Speed,1.2 [6-7th],Crawl,No,Rapid Jab Finisher,4-5,41,2,45,130,65,Fair (Hit 2),18-20,-,5.0,40,35,100,-,-,Neutral 2: Ultimate Uppercut (Charging),Full Charge: 124 Frames,-,-,-,-,-
+Fall Speed,1.7 [12-13th],Tether,No,Dash Attack,6-9,38,11 (+1),60,100,50,Bair,7-9,40,10.0,361,10,100,14,28>,Neutral 2: Ultimate Uppercut (Full Charge),12,69,23 (+3),85,32,80
+Fast Fall Speed,2.72 [13-14th],Jumpsquat,5 frames,Dash Attack (Late),10-17,-,6 (+1),60,100,40,Uair,6-10,36,8.0,75,9,100,14,23>,"Neutral 2: Ultimate Uppercut (Full Charge, Late)",13-16,-,16,85,25,83
+Air Acceleration,0.058,Soft Landing Lag,2 frames,Ftilt (High),6-8,28,8.5/7.5,361,12,100,Dair,16,50,13.0,270/70,10/30,80/100,18,"1-4, 37>","Neutral 2: Ultimate Uppercut (No Charge, Air)",19,-,6.4,80,40,100
+Gravity,0.1,Hard Landing Lag,4 frames,Ftilt,6-8,-,8/7,361,12,100,Dair (Late),17-18,-,12.0,361,30,100,-,-,"Neutral 2: Ultimate Uppercut (No Charge, Air, Late)",20-21,-,4,80,20,66
+SH Air Time,36 frames,FH Air Time,55 frames,Ftilt (Low),6-9,-,8.3/7.3,361,12,100,,,,,,,,,,"Neutral 2: Ultimate Uppercut (Full Charge, Air)",12,-,16.1 (+3),85,32,70
+,,,,Utilt,5-12,30,6,96,28,130,,,,,,,,,,"Neutral 2: Ultimate Uppercut (Full Charge, Air, Late)",12,-,11.2,85,25,70
+,,,,Dtilt,7-8,28,8,80,50,90,,,,,,,,,,Neutral 3: Exploding Side Kick,50-52 (Super Armor 40-53),90,25,361,35,79
+,,,,Fsmash (All Angles),17,68,18,361,30,100,,,,,,,,,,Neutral 3: Exploding Side Kick (Aerial),50-52 (Super Armor 40-53),-,21.25,361,35,79
+,,,,Usmash,8-11 (Legs Intangible: 8-12),48,14,84,32,93,,,,,,,,,,Neutral 3: Exploding Side Kick (B-Reversed),58-60 (Super Armor 48-61),98,27,361,35,79
+,,,,Usmash (Late),12-14,-,10,84,32,93,,,,,,,,,,"Neutral 3: Exploding Side Kick (B-Reversed, Aerial)",58-60 (Super Armor 48-61),-,22.950001,361,35,79
+,,,,Dsmash,9-10,44,13,32/35,38/50,80/83,,,,,,,,,,"Side 1: Onslaught (Inert Hitbox, Ground)",16-35,74,-,-,-,-
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,"Side 1: Onslaught (Attack, Ground)",4-17 (Rehit rate: 5),70,1.2,95/366,W: 10,100
+,,,,Standing Grab,6-7,30,,,,,,,,,,,,,,"Side 1: Onslaught (Attack, Ground)",20-21,-,1.2,75,W: 50,100
+,,,,Dash Grab,8-9,37,,,,,,,,,,,,,,"Side 1: Onslaught (Final Hit, Ground)",28-30,-,4,80,60,175
+,,,,Pivot Grab,9-10,35,,,,,,,,,,,,,,"Side 1: Onslaught (Inert Hitbox, Aerial)",19-35,-,-,50,0,0
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,"Side 1: Onslaught (Attack, Aerial)",4-17 (Rehit rate: 5),70,1,95/366,W: 10,100
+,,,,Fthrow,No,9,45,60,65,,,,,,,,,,,"Side 1: Onslaught (Attack, Aerial)",20-21,-,1,60,W: 70,100
+,,,,Bthrow,No,"2, 5",45,70,60,,,,,,,,,,,"Side 1: Onslaught (Final Hit, Aerial)",28-30,-,4,80,60,160
+,,,,Uthrow,No,8,93,100,30,,,,,,,,,,,Side 2: Burning Dropkick (No Charge),19-25,-,7 (+6),361,60,85
+,,,,Dthrow,No,"2, 4",80,65,100,,,,,,,,,,,"Side 2: Burning Dropkick (No Charge, Late)",26-53,-,7,361,50,78
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,Side 2: Burning Dropkick (Full Charge),63-69,-,7 (+6),361,50,78
+,,,,Spotdodge,3-16,27,,,,,,,,,,,,,,"Side 2: Burning Dropkick (Full Charge, Late)",70-97,-,7,361,50,78
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,Side 3: Headache Maker,18-19,-,13/10/13,45/270/45,30,120/100/120
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,Side 3: Headache Maker (Late),20-26,-,9,45,30,110
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,Side 3: Headache Maker (Landing),1-2,39,4,361,60,100
+,,,,,,,,,,,,,,,,,,,,Up 1: Soaring Axe Kick,16-,-,?,?,?,?
+,,,,,,,,,,,,,,,,,,,,Up 1: Soaring Axe Kick (Fall),52-,-,?,?,?,?
+,,,,,,,,,,,,,,,,,,,,Up 1: Soaring Axe Kick (Landing),2-3,41,4,45,45,170
+,,,,,,,,,,,,,,,,,,,,"Up 2: Helicopter Kick (Ground, Hit 1)",8,-,3,75,W: 70,100
+,,,,,,,,,,,,,,,,,,,,"Up 2: Helicopter Kick (Aerial, Hit 1)",8,-,?,?,?,?
+,,,,,,,,,,,,,,,,,,,,Up 2: Helicopter Kick (Hits 2-5),"15-, 20-, 26-, 31-",-,?,?,?,?
+,,,,,,,,,,,,,,,,,,,,"Up 2: Helicopter Kick (Ground, Hit 6)",36-37,-,6,55,60,155
+,,,,,,,,,,,,,,,,,,,,"Up 2: Helicopter Kick (Aerial, Hit 6)",36-37,-,6,43,60,150
+,,,,,,,,,,,,,,,,,,,,Up 3: Piston Punch (Hit 1),4-5,-,3,110,W: 150/30,100
+,,,,,,,,,,,,,,,,,,,,Up 3: Piston Punch (Hits 2-3),"7-8, 10-11",-,1,366/110,W: 120,100
+,,,,,,,,,,,,,,,,,,,,Up 3: Piston Punch (Hits 4-7),"13-14, 16-17, 19-20, 22-23",-,1,366/95,W: 150,100
+,,,,,,,,,,,,,,,,,,,,Up 3: Piston Punch (Hit 8),25-26,-,2,89,74,180
+,,,,,,,,,,,,,,,,,,,,Down 1: Head-On Assault (Hit 1),8 (Ground Only),59,4,0,53/43,10
+,,,,,,,,,,,,,,,,,,,,Down 1: Head-On Assault (Falling),28-,-,8,270/361,25/30,120/50
+,,,,,,,,,,,,,,,,,,,,Down 1: Head-On Assault (Landing),1,-,8,361/60,50/40,110/113
+,,,,,,,,,,,,,,,,,,,,Down 2: Feint Jump,-,32,-,-,-,-
+,,,,,,,,,,,,,,,,,,,,Down 2: Feint Jump (Attack),12-25,38,10 (+5),35/60,35,100
+,,,,,,,,,,,,,,,,,,,,"Down 3: Foot Flurry (Ground, Hits 1-7)","16, 19, 22, 25, 28, 31, 34, 37",88,1,12/12/10,W: 70/120/50,100
+,,,,,,,,,,,,,,,,,,,,"Down 3: Foot Flurry (Ground, Hit 8)",40,-,6,55,50,150
+,,,,,,,,,,,,,,,,,,,,"Down 3: Foot Flurry (Aerial, Hits 1-6)","16, 19, 22, 25, 28, 31, 34",88,1,130/230,W: 40,100
+,,,,,,,,,,,,,,,,,,,,"Down 3: Foot Flurry (Final Hit, Air)",40,-,6,55,50,140

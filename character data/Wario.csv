@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,107 [8-9th],Max Jumps,2,Jab 1,8-9,30,4,55/72,45/38,50/40,Nair (Hit 1),4,50,6.5,40,30,100.0,12,"1-3, 44>",Chomp,8- (Head Intangibility?: 8-25),38 (Max Hold Frames: 48),5,45,70,76
+Run Speed,1.5 [38-42nd],Wall Jump,No,Jab 2,4-5,34,5,75,60,100,Nair (Hit 2),15-38,-,4.0,70,65,100.0,-,-,Chomp (Eating Explosive),18 (Deals 5%),73,13,361,50,110
+Walk Speed,0.847 [55th],Wall Cling,No,Dash Attack,4-5,49,7,70,80,70,Fair,5-6,38,7.0,361,30,97.0,16,"1-4, 27>","Chomp (""Food"")",- (Heals 1%),28,-,-,-,-
+Air Speed,1.21 [5th],Crawl,Yes,Dash Attack (Late),6-23 (100% Trip Chance),-,4,180,W: 50,100,Fair (Late),7-17,-,4.5,361,15,80.0,-,-,Wario Bike,20-,28,-,-,-,-
+Fall Speed,1.61 [23rd],Tether,No,Ftilt (Angled Up),12-15,40,14/14/14/11,361,22,98,Bair,9-11,50,12.0,361,20,100.0,27,"1-5, 34>",Corkscrew (Hit 1),6-7,-,5,85/115/85/105,W: 110/110/90/90,100
+Fast Fall Speed,2.576 [24th],Jumpsquat,6 frames,Ftilt,12-15,-,13/13/13/11,361,22,98,Uair,8-9,47,13.0,88,30,78.0,12,"1-3, 37>",Corkscrew,"8-11, 12-15, 16-19, 20-23",-,1,104,W: 100,100
+Air Acceleration,0.08,Soft Landing Lag,2 frames,Ftilt (Angled Down),12-15,-,12/12/12/10,361,22,98,Dair (Hits 1-6),"9, 11, 13, 15, 17, 19",48,1.3,250/110/110,W: 60,100.0,19,"1-2, 42>",Corkscrew,29-30,-,4,45/45/85,70/70/60,130
+Gravity,0.092,Hard Landing Lag,4 frames,Utilt,12-14 (Hands and Head Intangible: 5-23),36,10,92,65,74,Dair (Hit 7),21,-,4.0,45,25,200.0,-,-,Wario Waft (No Charge),16-18 (100% Trip Chance),80,0,361,0,1
+SH Air Time,35 frames,FH Air Time,53 frames,Utilt (Late),15-23,-,6,80,30,50,,,,,,,,,,Wario Waft (15 Seconds),10-11,65,12/10,45,30/20,80
+,,,,Dtilt,5,18,4,46/69,20,50,,,,,,,,,,Wario Waft (55 Seconds),5-8,50,20,45,50,68
+,,,,Fsmash,18-19,66,19,361,20,99,,,,,,,,,,Wario Waft (110 Seconds),9-10 (Super Armor: 5-10),60,27,35,50,75
+,,,,Usmash,11-12 (Head Intangible: 8-14),58,16,95,40,85,,,,,,,,,,"Wario Waft (110 Seconds, Late)",11-26,-,20,80,0,100
+,,,,Usmash (Late),13,-,13,95,40,85,,,,,,,,,,,,,,,,
+,,,,Dsmash (Early),8-17,68,13,30,30,80,,,,,,,,,,,,,,,,
+,,,,Dsmash,18-27,-,10,30,20,84,,,,,,,,,,,,,,,,
+,,,,Dsmash (Late),28-36,-,5,30,10,88,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,8-9,30,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,37,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,8-9,35,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,12,45,60,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,7,45,80,60,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"4, 7",89,60,72,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"4, 4",130,80,18,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

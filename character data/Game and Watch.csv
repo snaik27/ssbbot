@@ -1,0 +1,29 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,75 [56th],Max Jumps,2,Jab 1,4-5,16,3,83,W: 5/10/20,100,Nair (Hit 1),7,43,5,160/160/90,W: 30/30/B: 20,100/100/70,12,"1-2, 44>",Chef (Pan),18-20,50,5,10,60,30
+Run Speed,1.5264 [34th],Wall Jump,No,Rapid Jab,,,,,,,Nair (Hit 2),12,-,4,160/160/90,W: 30/30/B: 20,100/100/70,-,-,Chef (Sausages ( ͡° ͜ʖ ͡°)),18-96,-,4,70,20,50
+Walk Speed,1.1242 [28th],Wall Cling,No,Rapid Jab Finisher,2-3,24,2,50,60,180,Nair (Hit 3),17,-,4,160/160/90,W: 30/30/0 B: 20/20/20,100/100/70,-,-,Judge 1,16-24,50,2,361,0,0
+Air Speed,1.12 [12-13th],Crawl,No,Dash Attack,6-9,38,10 (+1),50,70,70,Nair (Hit 4),22,-,4,70,40,150,-,-,Judge 2,16-24,-,4,361,10,40
+Fall Speed,1.24 [54th],Tether,No,Dash Attack (Late),10-19,-,6.5 (+1),50,70,70,Fair,10-11,45,11.5,361,30,86,15,"1-2, 42>",Judge 3,16-24,-,6 (+25),140,45,50
+Fast Fall Speed,1.984 [54th],Jumpsquat,5 frames,Ftilt,10,38,10/9,361,35,100,Fair (Late),12-25,-,6,361,10,80,-,-,Judge 4,16-24,-,8,40,50,40
+Air Acceleration,0.03,Soft Landing Lag,2 frames,Ftilt (Late),11-17,-,4,361,35,100,Bair (Hits 1-3),"10-13, 14-17, 18-21",40,2,366/25,30/0,40/100,19,"1-9, 38>",Judge 5,"16-18, 19-21, 22-24, 25-27",-,3,75,40,80
+Gravity,0.08,Hard Landing Lag,4 frames,Utilt (Hit 1),10-12,36,7,100,20,127/125,Bair (Hit 4),22,-,3,361,30,170,-,-,Judge 6,16-24,-,12,20,30,80
+SH Air Time,36 frames,FH Air Time,56 frames,Utilt (Hit 2),20-22,-,7,115,30,125/127,Bair (Landing),1-2,On Hit: 16,3,68,90,120,-,-,Judge 7,16-24,-,14,361,30,50
+,,,,Dtilt,6-11 (Ground Only),40,6,30,40,125,Uair (Hit 1),6-12,40,7/7/0/0,94/94/80/80,B: 20/20/ W: 120/70,60/60/100/100,12,"1-5, 41>",Judge 8,16-24,-,9,80,W: 70,100
+,,,,Dtilt (Windbox),7-19 (Aerial Only),-,1,90,70,120,Uair (Hit 2),20-22,-,9/9/0/0,90/90/80/80,B: 55/55/ W: 120/70,98/98/100/100,-,-,Judge 9,16-24,-,32,361,100,80
+,,,,Fsmash,17-18,43,14/18,53,44/48,100/91,Dair,12-13,50,11,270,20,106,28,"1-5, 51>",Fire (Windbox),2-8 (Intangible: 5-13),41,0,75,W: 120,100
+,,,,Usmash,24-25 (Partial Invincibility: 4-25),39,16,83,40,93,Dair (Late),14-38,-,11,60,20,106,-,-,Fire,9-29,-,6,361,60,80
+,,,,Dsmash,15-19,42,13/15/15,20/80/80,30/60/60,65/85/85,Dair (Landing),1-2,-,3.5,40,60,50,-,-,Oil Panic,Absorbs from: Frame 7,50,-,-,-,-
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,Oil Panic (Attack),2-7,50,1,361,30,80
+,,,,Standing Grab,6-7,30,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,37,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,35,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,8,58,100,40,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,8,58,100,40,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,8,90,100,40,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,4,80,35,120,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-16,26,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-26,32,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,30 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,97 [25-26th],Max Jumps,2,Jab 1,2-3,19,3,90/65/50,W: 20,100.0,Nair,3-5,46,12,90.0,20.0,90.0,14,"1-2, 36>",Fireball,17-45,44,6,361,7,25
+Run Speed,1.5 [38-42nd],Wall Jump,No,Jab 2,3-4,19,2,70/60/60,W: 15/20/20,100.0,Nair (Late),6-31,-,6,80.0,20.0,100.0,-,-,Fireball (Late),46-64,-,5,361,7,25
+Walk Speed,1.08 [34th],Wall Cling,No,Jab 3,6-7,31,5,361,65,80.0,Fair,7-10,24,8,361.0,30.0,80.0,22,21>,Green Missile (No Charge),22-,-,10 (+4),361,20,80
+Air Speed,0.73418 [57th],Crawl,Yes,Dash Attack (Hits 1-6),"4, 10, 16, 22, 29, 37",76,1,65/10,26/60,10.0,Bair,6-7,46,14/8,361.0,12.0,100.0,16,"1-2, 33>",Green Missile,Charge Time: 70 Frames,-,-,-,-,-
+Fall Speed,1.25 [53rd],Tether,No,Dash Attack (Final Hit),48,-,2,361,60,128.0,Bair (Late),8-13,-,8,361.0,12.0,100.0,-,-,Green Missile (Misfire),22-60 (Intangible: 18-22),86,25 (+4),361,20,100
+Fast Fall Speed,2.0 [53rd],Jumpsquat,5 frames,Ftilt (All Angles),5-7,33,8,361,2,100.0,Uair,5-7,30,11,55.0,0.0,100.0,12,19>,"Super Jump Punch (Sweetspot, Ground)",8 (Intangible: 8-10),-,25,88,50,77
+Air Acceleration,0.075,Soft Landing Lag,2 frames,Utilt,5-10,31,6,100,8,150.0,Uair (Late),8-11,-,7,55.0,0.0,100.0,-,-,"Super Jump Punch (Sweetspot, Aerial)",6 (Intangible: 8-10),-,20,90,40,66
+Gravity,0.075,Hard Landing Lag,4 frames,Dtilt,5-8,27,8,361,20,65.0,Dair,10,29,10,270.0,20.0,80.0,20,"1-5, 24>",Super Jump Punch,8-,-,1,-,-,-
+SH Air Time,47 frames,FH Air Time,77 frames,Fsmash (High),12-13,42,15,65,20,121.0,Dair (Late),11-14,-,8,361.0,20.0,100.0,-,-,Luigi Cyclone (Ground),10-33 (Rehit Rate: 6),90,1.5,366,85/80/20,30/30/60
+,,,,Fsmash,12-13,-,15,53,20,116.0,,,,,,,,,,"Luigi Cyclone (Ground, Final Hit)",44,-,3,70/70/90,80,130
+,,,,Fsmash (Down),12-13,-,15,45,20,117.0,,,,,,,,,,Luigi Cyclone (Aerial),10-33 (Rehit Rate: 6),90,1.5,366,60,120
+,,,,Usmash,9-13 (Head Intangibility: 9-13),40,14/12,110,35,98.0,,,,,,,,,,"Luigi Cyclone (Aerial, Final Hit)",44,-,3,70/70/89,80,120
+,,,,Dsmash (Hit 1),6-7,38,14/15,120,40,85.0,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),14-15,-,14/15,60,40,104.0,,,,,,,,,,,,,,,,
+,,,,Down Taunt,45,70,2,270,W: 180,100.0,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,29,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,36,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,34,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,9,45,60,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,10,45,80,65,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,8,90,70,72,,,,,,,,,,,,,,,,,
+,,,,Dthrow: The Apocalypse,Yes,6,80,55,83,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

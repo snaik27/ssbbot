@@ -1,0 +1,35 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,100 [17-20th],Max Jumps,2,Jab 1,5-6,26,2,65/94/60,30,50,Nair,8-21,42,6,361,45,80.0,18,"1-3, 35>",Neutral 1: Charge Blast (No Charge),16?,39?,3,361,14,42
+Run Speed,1.3 [53-54th],Wall Jump,Yes,Jab 2,4-5,26,2,83/70/45,38,28,Fair,10-13,56,6,45,35,110.0,12,47>,Neutral 1: Charge Blast (Full Charge),16?,39?,22,50,20,64
+Walk Speed,1.05 [37-38th],Wall Cling,No,Jab 3 (Hit 1),7-9,38,1,350/90,W: 20,100,Fair (Late),14-,-,4,70,50,80.0,-,-,Neutral 2: Laser Blaze,?,?,4,361,W: 3,100
+Air Speed,1.05 [25th],Crawl,No,Jab 3 (Hit 2),14-15,-,4,361,40,110,Bair,9-10,48,12,361,30/42,88.0,18,"1-3, 32>",Neutral 2: Laser Blaze (Late),,-,3,361,W: 3,100
+Fall Speed,1.45 [38-39th],Tether,No,Dash Attack,10-14,46,10,60,80,70,Uair (Hit 1),17,62,1,140,W: 45,100.0,22,"1-10, 60>",Neutral 3: Grenade Launcher (Explosion),1-17 (Rehit rate: 5),,0.5,160,30,10
+Fast Fall Speed,2.32 [37-38th],Jumpsquat,? frames,Ftilt (Early),10-11,-,9,361,30,100,Uair,18-37 (Rehit rate: 3),-,1,366/96/130,W: 25,100.0,-,-,Neutral 3: Grenade Launcher (Final Hit),18,-,6,55,20,160
+Air Acceleration,0.07,Soft Landing Lag,? frames,Ftilt,12-13,-,,361,30,100,Uair (Final Hit),39,-,4,72,40,170.0,-,-,Side 1: Flame Pilar (Shot),21-,60,4,80,40,80
+Gravity,0.08715,Hard Landing Lag,? frames,Ftilt (Late),14-15,-,6,361,30,100,Dair,20,55,10/15/15,361/270/361,30/2/30,90.0,28,"1-3, 54>",Side 1: Flame Pillar (Pillar),1-,-,6,45,40,70
+SH Air Time,40 frames,FH Air Time,57 frames,Utilt,5,38,10/9,95/90,50,100/80,,,,,,,,,,Side 2: Stealth Burst (No Charge),10-16?,?,7,65,20,95
+,,,,Utilt (Late),6-9,-,8,95,50,70,,,,,,,,,,Side 3: Mii Missile (Homing),19?,62,4.5 (+1),0,26,22
+,,,,Dtilt,8-10,41,14,80,80,60,,,,,,,,,,Side 3: Mii Missile (Super),?,49,10 (+5),65,50,65
+,,,,Fsmash,17-38 (Rehit rate: 4),78,0.8,80/10,W: 5,100,,,,,,,,,,Up 1: Lunar Launch,?,-,7,55,50,100
+,,,,Fsmash (Final Hit),40,-,5,45,30,193,,,,,,,,,,Up 2: Cannon Uppercut (Hit 1),11-12,-,9,270/110,5/60,100/85
+,,,,Usmash (Hit 1),11-12,56,3,110/110/110/180,70/70/30/40,25,,,,,,,,,,Up 2: Cannon Uppercut (Hit 2),?,-,8,80,50,134
+,,,,Usmash (Hit 2),15-16,-,2.5,150/150/180,55/55/30,25,,,,,,,,,,"Up 2: Cannon Uppercut (Hit 2, Late)",?,-,6,80,50,134
+,,,,Usmash (Hit 3),19-20,-,2.5,180/180/240,50/50/30,25,,,,,,,,,,Up 3: Arm Rocket,-,-,-,-,-,-
+,,,,Usmash (Hit 4),23-24,-,2.5,220/220/280,40/40/30,25,,,,,,,,,,Down 1: Echo Reflector,3-4,-,2,10/60,60,30
+,,,,Usmash (Hit 5),27-28,-,6,90,50,150,,,,,,,,,,Down 2: Bomb Drop,11-,55,2 (+6),361,70,50
+,,,,Dsmash (Hit 1),9,53,4,164,W: 90/110/130,100,,,,,,,,,,Down 2: Bomb Drop (Contact),1-,-,9 (+6),66,70,80
+,,,,Dsmash (Hit 2),23-25,-,10,50,60,105,,,,,,,,,,Down 3: Absorbing Vortex,1-2,-,0,361,30,100
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,29,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,39,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,35,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,"2, 3",45,42,130,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,"2, 3","45, 361","80, 20","56, 160",,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,"2, 3","90, 89","75, 40","53, 150",,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,5,100,95,50,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-16,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

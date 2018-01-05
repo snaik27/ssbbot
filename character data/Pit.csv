@@ -1,0 +1,34 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,96 [27-29th],Max Jumps,4,Jab 1,5-6,27,2,55/90,38,30.0,Nair (Hit 1-7),"4, 7, 10, 13, 16, 19, 22",55,0.7,65/125/25/160,W: 70/70/20/20,100.0,24,"1-3, 30>",Palutena's Bow (No Charge),20-63,59,"1 (Min 3.27, Max 8.6)",60,4,80
+Run Speed,1.66215 [24-25th],Wall Jump,No,Jab 2,5-6,30,2,60/90/120,30,30.0,Nair (Hit 8),25,-,4,361,60,100.0,-,-,"Palutena's Bow (No Charge, Aerial)",22-65,43,-,-,-,-
+Walk Speed,1.199 [17-18th],Wall Cling,No,Jab 3,3-4,32,5,70,60,100.0,Fair (Hits 1-2),"11-12, 14-15",47,1.5,366,20,48.0,20,28>,Palutena's Bow (Full Charge),79-122,118,-,-,-,-
+Air Speed,0.89 [50-51st],Crawl,No,Rapid Jab,-,-,0.8,25/120,W: 18/4,100.0,Fair (Hit 3),18-19,-,4,361,20,180.0,-,-,Upperdash Arm (Ground),Inert Detector: 16-35 (Super Armor: 11-26),83,-,-,-,-
+Fall Speed,1.48 [36-37th],Tether,No,Rapid Jab Finisher,5,40,2,361,45,170.0,Bair,10-12,41,12/8,46/66,30,96.0,20,28>,"Upperdash Arm (Ground, Attack)",2-4,50,11,80,100,60
+Fast Fall Speed,2.368 [35-36th],Jumpsquat,5 frames,Dash Attack,7-9,39,11,60,80,50.0,Uair (Hits 1-4),"12-13, 15-16, 18-19, 21-22",50,2,90/270/165/165,W: 80/20/60/60,100.0,24,"1-4, 37>",Upperdash Arm (Aerial),Inert Detector: 19-35 (Super Armor: 11-26),121,-,-,-,-
+Air Acceleration,0.065,Soft Landing Lag,2 frames,Ftilt,10-14,40,7/10,361,40,100.0,Uair (Hit 5),24-25,-,2,68,5,270.0,-,-,"Upperdash Arm (Aerial, Attack)",2-5,58,9,80,90,60
+Gravity,0.081,Hard Landing Lag,5 frames,Utilt (Hit 1),6,43,2,100,W: 110,100.0,Dair,10,37,10,270/60,0/40,80.0,24,"1-6, 36>",Power of Flight (Grounded),Intangible: 9-19,-,-,-,-,-
+SH Air Time,38 frames,FH Air Time,57 frames,Utilt (Hit 2),8-10,-,3,365/90,W: 60/80,100.0,Dair (Late),11-12,-,10,80/70,50/40,80.0,-,-,Power of Flight (Aerial),Intangible: 15-19,-,-,-,-,-
+,,,,Utilt (Hit 3),15-16,-,5,83,50,120.0,,,,,,,,,,Guardian Orbitars (Minimum Duration),"Shield Appears: 9-29 (1.5×, 50% Break Threshold)",64,HP: 18.00001,HP Regen per/f: 0.07,Recharge: 600 frames,-
+,,,,Dtilt,6-7,32,6,55,70,50.0,,,,,,,,,,Guardian Orbitars (Maximum Duration),"Shield Appears: 9-89 (1.5×, 50% Break Threshold)",124,-,-,-,-
+,,,,Fsmash (Hit 1),10,59,5,70/35/70/0,W: 43/53/5/15,100.0,,,,,,,,,,,,,,,,
+,,,,Fsmash (Hit 2),21,-,10,361,42,122.0,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 1),6,52,3,365/365/105,"W: 20/33/33, B: 40",100.0,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 1, Late)",7,-,3,110,W: 140,100.0,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 2),10,-,2,98/120/120,W: 20/50/50,100.0,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 3),18,-,8,89,66,102.0,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 1),5-6,41,12/12/10,55,35,93.0,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),18-20,-,12/12/10,30,25,93.0,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,30,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,37,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,35,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"6, 4",45,50,150,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,8,45,65,60,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"4, 7",90,70,72,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,"2, 4",70,80,60,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,2-16,26,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-15,28,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,2-26,32,,,,,,,,,,,,,,,,,,,,

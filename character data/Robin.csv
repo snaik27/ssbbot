@@ -1,0 +1,36 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Tomes/Sword,Uses,Respawn (Frames),Respawn (Secs),Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,95 [29-32nd],Max Jumps,2,Levin Sword,8.0,600 (-20 per Smash Attack),10.0,Jab 1,4-7,32,3,75/60/361,40,30,Nair (Hit 1),9-12,50,7,30,60,55,18,"1-3, 34>",Book,-,-,-,361,20,85
+Run Speed,1.15 [58th],Wall Jump,No,Thunder,20.0,720,12.0,Jab 2,4-8,35,3,92/80/70,45,24,Nair (Hit 2),22-25,-,7,30,60,55,-,-,Levin Sword,-,-,-,361,10,100
+Walk Speed,0.891 [47th],Wall Cling,No,Fire,6.0,720,12.0,Jab 3 (Fire),10-11,36,5,361,70,124,Fair (Levin Sword),12-15,34,12.5,55,50,100,18,"1-3, 27>",Thunder (Non-Thoron),Startup: 7 frames,-,-,-,-,-
+Air Speed,1 [31-34th],Crawl,No,Wind,18.0,420,7.0,Rapid Jab (Wind),"9, 11? (1 use every 7 hits)",-,1,?,?,?,"Fair (Levin Sword, Late)",16-19,-,5,65,45,80,-,-,Thunder,11-23 (Uses 1 Durability),39,4.5,50,50,20
+Fall Speed,1.5 [32-35th],Tether,No,Nosferatu,4.0,2400,40.0,Rapid Jab Finisher (Wind),8,41,2,74,80,160,Fair (Bronze Sword),12-15,-,7.5,361,50,100,-,-,Elthunder,11-54 (Uses 3 Durability),48,10.5,50,30,100
+Fast Fall Speed,2.4 [31-34th],Jumpsquat,7 frames,,,,,Dash Attack,8-10,50,10,45,80,66,Bair (Levin Sword),9-10,40,15,361,40,93,19,32>,Arcthunder (Projectile),11-67 (Uses 5 Durability),48,-,-,-,-
+Air Acceleration,0.07,Soft Landing Lag,2 frames,,,,,Dash Attack (Late),11-18,-,6,65,80,60,"Bair (Levin Sword, Late)",11-16,-,5,65,45,80,-,-,Arcthunder (Hit 1),1-2,-,3,70,50,75
+Gravity,0.089,Hard Landing Lag,4 frames,,,,,Ftilt,9-10,33,7.5,361,50,70,Bair (Bronze Sword),9-10,-,9,361,40,93,-,-,Arcthunder,3-33 (Rehit rate: 6),-,1,110/366/366,W: 20/16/16,100
+SH Air Time,38 frames,FH Air Time,57 frames,,,,,Utilt,6-13,36,6,96,50/60/70,80,Uair (Levin Sword),10-13,46,13,95,48,90,18,"1-4, 27>",Arcthunder (Final Hit),34,-,1,50,60,280
+,,,,,,,,Dtilt,7-8,22,6,30,40,40,"Uair (Levin Sword, Late)",14-23,-,5,65,45,80,-,-,Thoron,"20-?? (Rehit rate: 4, Uses 8 Durability)",62,2.6,60,50,230
+,,,,,,,,Fsmash (Levin Sword),16-18,58,16,361,50,87,Uair (Bronze Sword),10-13,-,7.8,95,48,90,-,-,Super Thoron,20-?? (Rehit rate: 4),71,2.6,60,50,230
+,,,,,,,,"Fsmash (Levin Sword, Late)",19-27,-,5,361,60,70,"Dair (Levin Sword, Early)",13-14,60,11,270/70,20,100,26,"1, 48>",Arcfire (Projectile),17-50,64,-,-,-,-
+,,,,,,,,Fsmash (Bronze Sword),16-18,-,9,361,50,87,Dair (Levin Sword),15-17,-,12/11,40/70,55/20,80/100,-,-,Arcfire (Hit 1),1-2,-,1,85,W: 22,100
+,,,,,,,,"Usmash (Levin Sword, Early)",12,53,15/10,92/70,45/70,84/79,"Dair (Levin Sword, Late)",18-24,-,8,65,45,80,-,-,Arcfire,1-48 (Rehit rate: 8),-,1,78,W: 16,100
+,,,,,,,,Usmash (Levin Sword),13-16,-,15,92,45,84,Dair (Bronze Sword),13-15,-,7.2,361,55,80,-,-,Arcfire (Final Hit),49-50,-,4,70,80,115
+,,,,,,,,"Usmash (Levin Sword, Late)",17-25,-,5,70,60,70,"Dair (Bronze Sword, Late)",16-24,-,6,361,45,80,-,-,Elwind (Hit 1),8-12 (Uses 1 Durability),-,7,255,10,100
+,,,,,,,,Usmash (Bronze Sword),12-16,-,9,55,45,84,,,,,,,,,,"Elwind (Hit 1, Late)",13-29,-,5,80,100,30
+,,,,,,,,Dsmash (Levin Sword),16-17,57,15,55,50,95,,,,,,,,,,Elwind (Hit 2),28-53 (Uses 1 Durability),-,5,125,60,70
+,,,,,,,,"Dsmash (Levin Sword, Late)",20-23 (Ground only),-,12,45,50,100,,,,,,,,,,Nosferatu (Grab),15-16 (Intangible: 15-16),56,-,-,-,-
+,,,,,,,,"Dsmash (Levin Sword, Electricity)",24-28,-,8,45,50,80,,,,,,,,,,Nosferatu (Attack),"23, 31, 39, 47, 55...",39 after grab break,0.8,-,-,-
+,,,,,,,,Dsmash (Bronze Sword),16-17,-,8,28,50,95,,,,,,,,,,,,,,,,
+,,,,,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Standing Grab,7-8,40,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Dash Grab,8-9,50,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Pivot Grab,9-10,47,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,,,,,Fthrow,Yes,8,45,26,25,,,,,,,,,,,,,,,,,
+,,,,,,,,Bthrow,Yes,11,52,85,60,,,,,,,,,,,,,,,,,
+,,,,,,,,Uthrow,Yes,9,93,100,30,,,,,,,,,,,,,,,,,
+,,,,,,,,Dthrow,Yes,6,85,30,88,,,,,,,,,,,,,,,,,
+,,,,,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Forward Roll,4-18,33,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Back Roll,4-18,33,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,29 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,98 [22-24th],Max Jumps,2,Jab 1,2-3,23,2.8,60/70/80,W: 30,100,Nair,3-7,46,5.6,361,20.0,100.0,12,"1-2, 34>",Megavitamins (Early),17-20,53,5.6,361,35,20
+Run Speed,1.312 [52nd],Wall Jump,Yes,Jab 2,2-3,25,1.68,70/78/88,W: 30,100,Nair (Late),8-27,-,8.96,361,13.0,90.0,-,-,Megavitamins,21-44,-,5.6,361,28,15
+Walk Speed,0.902 [44th],Wall Cling,No,Jab 3,7-8,36,4.48,361,45,80,Fair (Early),16,60,11.2,50,30.0,95.0,28,"1-2, 43>",Megavitamins (Late),45-69,-,4.48,361,22,10
+Air Speed,0.943 [43rd],Crawl,No,Dash Attack,6-9,38,8.96,90,90,42,Fair,17-19,-,16.8,50,30.0,102.0,-,-,Super Sheet,"12-14 (Reflects 6-22, 1.5× 50% Break Threshold)",36,7.84,110,0,0
+Fall Speed,1.5 [32-35th],Tether,No,Dash Attack (Late),10-25,-,6.72,90,90,42,Fair (Late),20-22,-,10.08,50,20.0,95.0,-,-,Super Jump Punch,3-5,-,13.44,50,30,100
+Fast Fall Speed,2.4 [31-34th],Jumpsquat,5 frames,Ftilt (All Angles),5-7,31,7.84,361,8,100,Bair,6-8,34,13.44,361,10.0,95.0,16,"1-5, 19>",Super Jump Punch (Late),6-19,-,6.72,74,64,66
+Air Acceleration,0.0574,Soft Landing Lag,2 frames,Utilt,5-11,30,7.056,96,28,130,Bair (Late),9-13,-,7.84,361,7.0,90.0,-,-,Dr. Tornado (Ground),10-33 (Rehit rate: 6),75,1.344,90/90/180/180,W: 30/70 B: 45/45,60/60/20/20
+Gravity,0.08715,Hard Landing Lag,4 frames,Dtilt,5-7,28,5.6/7.84,80,35,80,Uair,4-12,32,7.84,45,9.0,100.0,14,18>,Dr. Tornado (Ground),40,-,3.36,45,80,130
+SH Air Time,35 frames,FH Air Time,53 frames,Fsmash (Angled Up),15-17,48,19.992/19.992/16.464,361,25,96/96/100,Dair,11-26 (Rehit rate: 4),52,1.9040000000000001,366/366/95/95,30.0,10.0,21,"1-5, 45>",Dr. Tornado (Aerial),10-33 (Rehit rate: 6),75,1.344,90/90/366/366,W: 50/50 B: 60/60,100/100/120/120
+,,,,Fsmash,15-17,-,19.04/19.04/15.68,361,25,96/96/100,Dair (Final Hit),27,-,3.36,45,50.0,120.0,-,-,Dr. Tornado (Aerial),40,-,3.36,45,80,130
+,,,,Fsmash (Angled Down),15-17,-,19.6112/19.6112/16.1504,361,25,96/96/100,Dair (Landing),1-2,-,2.24,361,50.0,160.0,-,-,,,,,,,
+,,,,Usmash,9-13 (Head Intangible: 9-13),40,15.68,130,0,117,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 1),5-6,44,11.2,32,30,100,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),14,-,13.44,30,30,100,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,6-7,29,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,8-9,36,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,9-10,34,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,8.96,45,60,60,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,12.32,45,70,60,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,7.84,90,65,70,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,5.6,80,75,45,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

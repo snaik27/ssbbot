@@ -1,0 +1,27 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,106 [10th],Max Jumps,2,Jab 1,3-4,21,3,100,4,70.0,Nair,18-32,48,8/6,60/70,50,100/98,12,33>,Robo Beam (No Charge),25-,50,7,361,40,95
+Run Speed,1.568 [32nd],Wall Jump,No,Jab 2,3-4,21,3,361,40,120.0,Fair,6-7,36,7,361,30,90,15,25>,Robo Beam (Half Charge),Charge: 160 Frames,-,-,-,-,-
+Walk Speed,1.122 [29th],Wall Cling,No,Dash Attack,7-8,36,7,60,70/65,70.0,Bair,19-23,53,12/10,35,32,100,22,46>,Robo Beam (Half Charge),25-,-,4.5,80,70,40
+Air Speed,1.08 [21-23rd],Crawl,No,Ftilt (All Angles),7-9,34,6/6/5/8,361,30,100.0,Bair (Late),24-29,-,6/4.5,35,30,100,-,-,Robo Beam (Super Charge),Charge: 860 Frames,-,-,-,-,-
+Fall Speed,1.6 [24-27th],Tether,No,Utilt,4-5,27,3,90/105/105,W: 60/50/50,100.0,Uair,"7, 9, 13, 17",52,1.5,120/240,70/25,20,22,40>,Robo Beam (Super Charge),25-,-,10,60,50,70
+Fast Fall Speed,2.56 [25-26th],Jumpsquat,5 frames,Utilt (Late),6-7,-,5/6/6,90,55,80.0,Uair (Final Hit),26,-,4,70,45,180,-,-,Arm Rotor (No Mashing),16-55? (Rehit rate: 3),-,1,361/361/145/120,20,70
+Air Acceleration,0.045,Soft Landing Lag,2 frames,Dtilt,3,15,5,361,2,100.0,Dair,20-21,70,12/11/11/6,80/280/45/361,10/20/30/10,100/110/100/100,21,45>,Arm Rotor (Max Mashing),16-82? (Rehit rate: 3),-,1,361/361/145/120,20,70
+Gravity,0.09,Hard Landing Lag,4 frames,Fsmash (All angles),16-17,55,15/11.5/6,41,32,100.0,Dair (Late),22-26,-,8,361,30,100,-,-,Arm Rotor (Final Hit),7,53,3,45,40,210
+SH Air Time,40 frames,FH Air Time,61 frames,Usmash (Launcher),10-11 (Ground Only),49,3,111,W: 135,100.0,,,,,,,,,,Robo Burner (Ground),- (Intangible: 2-4),24,-,-,-,-
+,,,,Usmash (Late),14-18,-,14/13,80/85,40,98.0,,,,,,,,,,Gyro (Charging),Charge: 90 Frames,97,-,-,-,-
+,,,,Dsmash,7-14 (Rehit Rate: 2),46,2/1.5,170,40,30.0,,,,,,,,,,Gyro,9,43,-,-,-,-
+,,,,Dsmash (Final Hit),16,-,5,33,37,160.0,,,,,,,,,,Gyro (Failure),-,61,-,-,-,-
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,7-8,31,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,9-10,38,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,11-12,37,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,8,45,60,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,10,45,60,65,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,12,80,60,70,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,10,88,110,20,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-17,27,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-16,30,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-27,33,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,34 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg.,Angle,BKB/WBKB,KBG
+Weight,94 [33-36th],Max Jumps,2,Jab 1,2-4,20,2.5,30/66/87,W: 30/18/16,100,Nair,7-23 (Rehit rate: 5),45,2,367,20,70,13,37>,PK Freeze,40,67,-,-,-,-
+Run Speed,1.5 [38-42nd],Wall Jump,No,Jab 2,3-5,20,2,30/70/88,W: 30/18/16,100,Nair (Final Hit),26,-,4,60,40,140,-,-,PK Freeze (Max),89,116,-,-,-,-
+Walk Speed,0.85 [54th],Wall Cling,No,Jab 3,6-8,30,4,48,60,80,Fair,9-10,42,9/11.5,361/46,10/30,100/97,12,38>,PK Fire,21-37,53,3,-,-,-
+Air Speed,1.1 [14-19th],Crawl,No,Dash Attack,15-16,39,9/13,75/46,60,76/70,Fair (Late),11-12,-,6,361,7,100,-,-,PK Fire (Contact),1-20,-,6,-,-,-
+Fall Speed,1.37 [43rd],Tether,Yes,Ftilt (All Angles),7-9,26,7.5/11,361,20/30,60/75,Bair,15-20,40,9/12/12/7,361/280/361/361,30/30/30/10,80/90/90/60,15,"1-2, 39>",PK Thunder,20-137,70,-,-,-,-
+Fast Fall Speed,2.192 [43rd],Jumpsquat,5 frames,Utilt (Hit 1),4,37,1.5,120,W: 60,100,Uair,7-9,46,13,80,10,100,12,38>,PK Thunder 2 (Hit 1),1 (Intangible: 1-9),66,8,361,60,110
+Air Acceleration,0.085,Soft Landing Lag,2 frames,Utilt (Hit 2),7-10,-,8,93,50,100,Dair (Hits 1-3),"10-12, 18-19, 26-27",57,3.5,90/270,B: 42/W: 20,10/100,24,47>,PK Thunder 2 (Hits 2-6),"3-4, 6-7, 9-10, 12-13, 15-16",-,2,366,30,50
+Gravity,0.09,Hard Landing Lag,5 frames,"Utilt (Hit 2, Late)",11-14,-,5,90,50,100,Dair (Hit 4),34-35,-,5,270/361,10,110/130,-,-,PK Thunder 2 (Hits 7-11),"18-19, 21-22, 24-25, 27-28, 30-31",-,1.5,366,30,50
+SH Air Time,34 frames,FH Air Time,54 frames,Dtilt,3-4,16,3,76/40/0,18/10/8,50/45/40,Zair,9-12,60,4,45,60,30,8,-,PK Thunder 2 (Hit 12),33-34,-,10,50,90,74
+,,,,Fsmash,"14-15 (Reflects on: 10-19, 1.5×, 50% Break Threshold)",47,14/15,361,50,88,Zair (Late),13-19,-,2.8,45,40,30,-,-,PSI Magnet,17,36,8,25,40,98
+,,,,Usmash (Launcher),"28 (Invincible: 1-4, Head Intangible: 15-29)",99,2,110,W: 110,90,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 2, Earliest)",30-32,-,19,95,48,77,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 2, Early)",33-37,-,18,95,42,77,,,,,,,,,,,,,,,,
+,,,,Usmash (Hit 2),38-42,-,16,95,37,77,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 2, Late)",43-47,-,14,95,32,77,,,,,,,,,,,,,,,,
+,,,,"Usmash (Hit 2, Latest)",48-52 (Aerial Only),-,12,95,27,77,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 1),20-21 (Cannot hit more than once),60,17,361,43,90,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 2),29-30 (Cannot hit more than once),-,14,361,30,90,,,,,,,,,,,,,,,,
+,,,,Dsmash (Hit 3),39-40 (Cannot hit more than once),-,11,361,20,90,,,,,,,,,,,,,,,,
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,,,,,,,
+,,,,Standing Grab,12-19,46,,,,,,,,,,,,,,,,,,,,
+,,,,Dash Grab,14-21,56,,,,,,,,,,,,,,,,,,,,
+,,,,Pivot Grab,12-19,56,,,,,,,,,,,,,,,,,,,,
+,,,,Throws,Weight Dependant?,Base Dmg.,Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,Yes,10,48,80,65,,,,,,,,,,,,,,,,,
+,,,,Bthrow,Yes,10,41,80,65,,,,,,,,,,,,,,,,,
+,,,,Uthrow,Yes,10,90,78,69,,,,,,,,,,,,,,,,,
+,,,,Dthrow,No,6.5,80,78,51,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,31 @@
+Statistic,Value/Rank,Statistic.1,Value/Rank.1,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG,Landing Lag,Autocancel,Attacks,Hitbox Active,FAF,Base Dmg. (+SD),Angle,BKB/WBKB,KBG
+Weight,104 [11-13th],Max Jumps,2,Jab 1,7-8,28,2.5,95/80/361/361,35/35/30/30,37,Nair,7-8,39,11/9/9,361,22,100,10,"1-3, 36>",Hero's Bow (No Charge),18-,47,5,361,10,66
+Run Speed,1.3944 [50th],Wall Jump,No,Jab 2,6-7,21,2.5,90/78/60/50,38,10,Nair (Late),9-31,-,6,361,15,100,-,-,Hero's Bow (Full Charge),54-,83,5,361,10,66
+Walk Speed,1.188 [19-20th],Wall Cling,No,Jab 3,6-10,37,5,30,70,50,Fair (Hit 1),14-15,50,11,45,20,130,12,51>,Gale Boomerang,27-35,46,7,70,80,40
+Air Speed,0.88 [52-53rd],Crawl,No,Dash Attack,20-23,57,14/13/12,45/50/55,70/85/85,85/85/77,Fair (Hit 2),26-27,-,13,45,30,100,-,-,Gale Boomerang (Late),36-63,-,5,65,60,40
+Fall Speed,1.6 [24-27th],Tether,Yes,Ftilt,15-19,38,13,361,55,82,Bair (Hit 1),6-8,31,3,72/68/68,W: 40,100,10,29>,Gale Boomerang (Windboxes),64-,-,0,60,W: 60,100
+Fast Fall Speed,3.04 [3rd],Jumpsquat,7 frames,Utilt,8-12,36,9,95/85/85/85,30,122/130/123/124,Bair (Hit 2),18-22,-,5,361,70,70,-,-,"Spin Attack (No Charge, Early)",8-9,82,14/14/11.2,45,60,86
+Air Acceleration,0.04,Soft Landing Lag,2 frames,Dtilt,11-12,29,11,280/80,0/90,62/30,Uair,11-13,60,15,85,18,88,23,"1-10, 47>",Spin Attack (No Charge),10-14,-,12/12/9.6,43,48,86
+Gravity,0.096,Hard Landing Lag,5 frames,Fsmash (Hit 1),15-16,52,7/14/7,75/361/55,47/30/47,15/100/15,Uair (Late),14-40,-,13,85,18,88,-,-,"Spin Attack (No Charge, Late)",15-24,-,9/9/7.2,43,48,84
+SH Air Time,33 frames,FH Air Time,49 frames,Fsmash (Hit 2),12-13,68,13/13/12/12,48,85,89,Dair (Early),14-17,80,15,270/55,30/25,80/40,32,"1-9, 65>","Spin Attack (No Charge, Latest)",25-40,-,7/7/5.6,361,20,82
+,,,,Usmash (Hit 1),10-13,78,4,105/130/140/105,W: 55/38/28/65,100,Dair,18-20,-,18,65,30,80,-,-,"Spin Attack (Air, Hit 1)",8,-,4,85/80/366,W: 70/40/85,100
+,,,,"Usmash (Hit 1, Late)",14-15,-,4,105/130/135/105,W: 55/38/45/65,100,Dair (Late),21-64,-,15,65,30,80,-,-,"Spin Attack (Air, Hit 2)",11,-,2,120,W: 90,100
+,,,,Usmash (Hit 2),25-28,-,3,105/130/140/105,W: 55/38/28/65,100,Zair (Hit 1),12-21,60,2.5,35,50,30,8,-,"Spin Attack (Air, Hit 3)",16,-,2,366/82/45,W: 60/50/85,100
+,,,,"Usmash (Hit 2, Late)",29-30,-,3,105/130/135/105,W: 55/38/40/65,100,Zair (Hit 2),22-23,-,4,45,50,30,-,-,"Spin Attack (Air, Hit 4)",19,-,2,120,W: 90,100
+,,,,Usmash (Hit 3),41-45,-,11/11/10/9,80/90/90/90,60,96,,,,,,,,,,"Spin Attack (Air, Hit 5)",22,-,2,366/90/45,W: 50/55/85,100
+,,,,Dsmash (Hit 1),9-10,50,14/16/17/16,78,40,88,,,,,,,,,,"Spin Attack (Air, Hit 6)",26,-,2,120,W: 90,100
+,,,,Dsmash (Hit 2),21-22,-,12/12/11/10,30,80,63,,,,,,,,,,"Spin Attack (Air, Hit 7)",31,-,2,90/90/50,W: 60/50/85,100
+,,,,Grabs,Hitbox Active,FAF,,,,,,,,,,,,,,"Spin Attack (Air, Hit 8)",38,-,2,120,W: 90,100
+,,,,Standing Grab,12-17,62,,,,,,,,,,,,,,"Spin Attack (Air, Hit 9)",47-48,-,4,361,30,200
+,,,,Dash Grab,14-21,66,,,,,,,,,,,,,,Bomb,Bomb Generated: Frame 17,40,-,-,-,-
+,,,,Pivot Grab,15-22,67,,,,,,,,,,,,,,Bomb,Explodes 220 Frames from Generation,-,-,70,40,90
+,,,,Throws,Weight Dependent?,Base Dmg. (+SD),Angle,BKB,KBG,,,,,,,,,,,,,,,,,
+,,,,Fthrow,No,"3, 4",50,50,120,,,,,,,,,,,,,,,,,
+,,,,Bthrow,No,"3, 4",130,50,110,,,,,,,,,,,,,,,,,
+,,,,Uthrow,No,"5/4, 2",90,24,230,,,,,,,,,,,,,,,,,
+,,,,Dthrow,Yes,"3, 3",83,60,85,,,,,,,,,,,,,,,,,
+,,,,Miscellaneous,Intangibility,FAF,Notes,,,,,,,,,,,,,,,,,,,
+,,,,Spotdodge,3-18,28,,,,,,,,,,,,,,,,,,,,
+,,,,Forward Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Back Roll,4-17,31,,,,,,,,,,,,,,,,,,,,
+,,,,Airdodge,3-28,34,,,,,,,,,,,,,,,,,,,,
