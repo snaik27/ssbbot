@@ -117,7 +117,7 @@ with open('terms.csv', 'r',newline='', encoding='utf-8') as f:
 #create subreddit instance
 reddit = praw.Reddit('ssb_bot')
 
-smashbros= reddit.subreddit('test')
+smashbros= reddit.subreddit('smashbros')
 
 #Main script
 def main():
@@ -128,13 +128,13 @@ def main():
         submission.comments.replace_more(limit=0)
         for curr_comment in submission.comments.list():
             if not (curr_comment.body is None) and not (curr_comment.author is None):
-                if curr_comment.body.lower().startswith('ssb_bot '):
+                if curr_comment.body.lower().startswith('ssb_bot ') or curr_comment.body.lower().startswith('20xxbot '):
                     #We want to make sure we haven't yet replied to the current comment. If we have, we skip the addition of the comment
                     if curr_comment.replies.list():
                         i_list = set()
                         for i in curr_comment.replies.list():
                             i_list.add(str(i.author))
-                        if ('ssb_bot' not in i_list) and (curr_comment not in user_comments):
+                        if ('ssb_bot' not in i_list)  and (curr_comment not in user_comments):
                             user_comments.append(curr_comment)
                     #If there are no replies to the current comment, we append it 
                     else:
@@ -162,8 +162,7 @@ while restart == True:
         while True:
             restart = False
             main()
-            print('going to bed for now')
-            time.sleep(120)
+            time.sleep(6000)
     except (RuntimeError,Exception,requests.exceptions.RequestException) as e:
         print(e)
         time.sleep(120)
