@@ -6,12 +6,24 @@ Goal: To help new competitive smash players learn game lingo and give current pl
 <a class="card-button" href="https://www.reddit.com/r/smashbros/comments/6v7fy3/introducing_the_new_and_improved_20xxbot_ssb_bot/">Link to Reddit post</a>
 
 
+
 <h2>Issue and Updates tracker</h2>
 <h3>Issues:</h3>
 <ol>
-  <li>Term definitions: The bot can't grab certain wiki definitions properly. This is likely due to either improper tag-search on the bot's end or inconsistent html tagging on the ssbwiki</li>
-  <li>Character data: Some characters' frame data tables are different due to having special attributes.</li>
-  <li>Data scraping: Some characters have spaces between names or inconsistent url-naming on kurogane hammer so scraping must be fixed for them.</li>
+  <li>Term definitions: 
+    <ul>
+      <li>The bot can't grab certain wiki definitions properly. This is likely due to either improper tag-search on the bot's end or inconsistent html tagging on the ssbwiki</li>
+      <li>Some definitions that are not available in the ssbwiki should be added. (Like 'wavecheating')</li>
+    </ul>
+  <li>Character data: 
+    <ul>
+      <li>Some characters' frame data tables are different due to having special attributes.</li>
+      <li>Melee and Brawl data need to be added in</li>
+    </ul>
+  <li>Data scraping: 
+   <ul>
+      <li>  Some characters have spaces between names or inconsistent url-naming on kurogane hammer so scraping must be fixed for them.</li>
+    </ul>
 </ol>
 
 <h3>Potential Updates</h3>
